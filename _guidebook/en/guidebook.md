@@ -23,7 +23,8 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+permalink: /guidebook/en/
+key: guidebook
 sidebar:
   nav: guidebook-en
 ---
