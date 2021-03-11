@@ -1,0 +1,26 @@
+---
+layout: dual_article
+title: guidebook 指南
+permalink: /guidebook/en-zh-hant/
+key: guidebook
+sidebar:
+  nav: guidebook-en-zh-Hant
+aside:
+  toc: true
+---
+
+{% capture left_include %}{% include_relative en/raw-en/guidebook.md %}{% endcapture %}
+{% capture right_include %}{% include_relative en/raw-en/guidebook.md %}{% endcapture %}
+
+<div class="grid">
+  <div class="cell cell--12 cell--lg-6 content">
+    <div class="js-article-left-content">
+      {{ left_include | markdownify }}
+    </div>
+  </div>
+  <div class="cell cell--12 cell--lg-6 content">
+    <div class="js-article-right-content">
+      {{ right_include | markdownify }}
+    </div>
+  </div>
+</div>
