@@ -6,4 +6,4 @@ key: guidebook
 sidebar:
   nav: guidebook-en
 ---
-{% include_relative raw_en/guidebook.md %}
+{% include_relative raw-en/guidebook.md %}

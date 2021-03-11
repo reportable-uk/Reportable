@@ -25,7 +25,7 @@ header:
     url: /
 
   - title: Guidebook
-    url: /guidebook/enzh/
+    url: /guidebook/en-zh-hant/
     key: guidebook
 
   - titles:
@@ -137,7 +137,35 @@ guidebook-en:
         url:    /guidebook/en/what-is-hate-crime
       - title:  How to report hate crimes and hate incidents?
         url:    /guidebook/en/how-to-report
-      - title:  What can you expect to happen after reporting? 报案之后
+      - title:  What can you expect to happen after reporting?
         url:    /guidebook/en/after-reporting
       - title:  What are your rights after reporting?
         url:    /guidebook/en/rights-after-reporting
+
+guidebook-en-zh-Hans:
+  - title:      Guidebook
+    children:
+      - title:  Introduction
+        url:    /guidebook/en/introduction
+      - title:  What is hate crime?
+        url:    /guidebook/en/what-is-hate-crime
+      - title:  How to report hate crimes and hate incidents?
+        url:    /guidebook/en/how-to-report
+      - title:  What can you expect to happen after reporting?
+        url:    /guidebook/en/after-reporting
+      - title:  What are your rights after reporting?
+        url:    /guidebook/en/rights-after-reporting
+
+guidebook-en-zh-Hant:
+  - title:      Guidebook
+    children:
+      - title:  Introduction 簡介
+        url:    /guidebook/enzhhant/introduction
+      - title:  What is hate crime?
+        url:    /guidebook/enzhhant/what-is-hate-crime
+      - title:  How to report hate crimes and hate incidents?
+        url:    /guidebook/enzhhant/how-to-report
+      - title:  What can you expect to happen after reporting?
+        url:    /guidebook/enzhhant/after-reporting
+      - title:  What are your rights after reporting?
+        url:    /guidebook/enzhhant/rights-after-reporting
