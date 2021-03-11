@@ -23,4 +23,4 @@ Depending on different situations, CARG will collaborate with other anti-racism 
 <li>Advocate and promote positive stories of British East Asian contributions to British society in the public sphere</li>
 <li> Develop a register of supporters and a pool of experts and professionals that CARG can rely on for help</li></ul></p>
 
-https://www.carg.info/
+[CARG Website](https://www.carg.info/)
