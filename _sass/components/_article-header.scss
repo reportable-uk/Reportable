@@ -46,5 +46,11 @@
 }
 
 .article__header--cover {
-  width: 100%;
+  display: block;
+  padding-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: 40vh;
+
 }

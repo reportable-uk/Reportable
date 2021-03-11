@@ -1,0 +1,7 @@
+.page__main-inner {
+  position: relative;
+  @include flexbox();
+  @include flex-direction(column);
+  min-height: 100%;
+  background-color: $background-color;
+}
