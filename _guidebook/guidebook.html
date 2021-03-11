@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dual_article
 titles: Guidebook
 permalink: /guidebook/enzh/
 key: guidebook
@@ -9,16 +9,18 @@ aside:
   toc: true
 ---
 
-{% capture left_include %}{% include_relative en/guidebook.md %}{% endcapture %}
-{% capture left_include %}{% include_relative en/guidebook.md %}{% endcapture %}
+{% capture left_include %}{% include_relative en/raw_en/guidebook.md %}{% endcapture %}
+{% capture right_include %}{% include_relative en/raw_en/guidebook.md %}{% endcapture %}
 
-{% capture transformed_html %}{{ left_include | markdownify }}{% endcapture %}
-{% assign nodes = transformed_html | strip | split: '<h' %}
-{{ nodes | markdownify }}
-{% for node in nodes %}
-  {{ node }}
-{% endfor %}
-<!--<div class="grid">-->
-<!--  <div class="cell cell&#45;&#45;12 cell&#45;&#45;lg-6 content">{{ my_include | markdownify }}</div>-->
-<!--  <div class="cell cell&#45;&#45;12 cell&#45;&#45;lg-6 content">{{ my_include | markdownify }}</div>-->
-<!--</div>-->
+<div class="grid">
+  <div class="cell cell--12 cell--lg-6 content">
+    <div class="js-article-left-content">
+      {{ left_include | markdownify }}
+    </div>
+  </div>
+  <div class="cell cell--12 cell--lg-6 content">
+    <div class="js-article-right-content">
+      {{ right_include | markdownify }}
+    </div>
+  </div>
+</div>
