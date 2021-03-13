@@ -18,8 +18,8 @@ aside:
 {% assign firstHeader = true %}
 {% assign currLevel = 0 %}
 {% assign lastLevel = 0 %}
-{% assign minHeader = include.h_min | default: 1 %}
-{% assign maxHeader = include.h_max | default: 6 %}
+{% assign minHeader = 1 %}
+{% assign maxHeader = 6 %}
 
 {% for leftNode in left_nodes %}
 
@@ -78,5 +78,7 @@ aside:
 <!--  {{ leftDisplayContent[1] }}-->
 <!--  <h{{ _rightIdWorkspaceNumber }} id="{{ rightHtmlID }}"> {{ rightHeader }} </h{{ _rightIdWorkspaceNumber}}>-->
 <!--  {{ rightDisplayContent[1] }}-->
+  {% assign lastLevel = currLevel %}
+  {% assign firstHeader = false %}
 
 {% endfor %}
