@@ -1,16 +1,16 @@
 ---
 layout: dual_article
-title: guidebook 指南
-permalink: /guidebook/test/
+title: What you can expect to happen after reporting 报案之后
+permalink: /guidebook/en-zh-hant/after-reporting
 key: guidebook
 sidebar:
-  nav: guidebook-en-zh-Hant
+  nav: guidebook-en-zh-hant
 aside:
   toc: true
 ---
 
-{% capture left_include %}{% include_relative en/raw-en/guidebook.md %}{% endcapture %}
-{% capture right_include %}{% include_relative en/raw-en/guidebook.md %}{% endcapture %}
+{% capture left_include %}{% include_relative en/raw-en/after-reporting.md %}{% endcapture %}
+{% capture right_include %}{% include_relative zh-hant/raw-zh-hant/after-reporting.md %}{% endcapture %}
 
 {% assign left_nodes = left_include | markdownify | strip | split: '<h' %}
 {% assign right_nodes = right_include | markdownify | strip | split: '<h' %}
@@ -80,5 +80,3 @@ aside:
 <!--  {{ rightDisplayContent[1] }}-->
 
 {% endfor %}
-
-
