@@ -1,8 +1,11 @@
+http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3
+
 The police and community response to a hate crime or incident will vary depending on
 1. whether the victim wishes to be contacted by the police, and
 2. whether the crime or incident was reported anonymously
 
 ## 1. Initial response
+http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3
 
 If the victim chooses to report the hate crime or incident non-anonymously, an officer will contact the victim and ask the victim how they would like to talk to the police about this crime.
 
@@ -22,6 +25,7 @@ Note:
 - If the victim finds it difficult or upsetting to talk to the police, they can ask for a break at any point.
 
 ### What can you do if the police won’t accept something as a hate incident?
+http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3
 
 If the police is notified of a hate incident, they are required to record it as such. It doesn’t matter if the police officer perceives it otherwise.
 
@@ -35,6 +39,7 @@ So while all instances of hate crime and hate incidents should be reported to th
 - not all prosecutions will lead to the suspect being found guilty.
 
 ## 2. Processing info
+http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3
 
 After the police has gathered information from the victim, they will perform an initial triage and open a case through two steps:
 1. Determine whether the case is handled by the correct authority
@@ -45,6 +50,7 @@ After the police has gathered information from the victim, they will perform an 
   - What is a CRN? This is a unique number assigned to the victim’s case, the victim can quote this number to request updates from the police.
 
 ## 3. Investigation
+http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3
 
 Having ensured that the case is dealt with by the correct authority, the officer will conduct an initial investigation.
 
@@ -66,6 +72,8 @@ The police will base our decision on four key factors:
 - the most effective use of resource
 
 ## 4. Decisioning
+http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3
+
 If the police decides to move forward with an arrest, they will bring in the suspect for questioning before  deciding whether to charge the person.
 
 After being held for questioning the police may decide to:
@@ -95,6 +103,7 @@ After being held for questioning the police may decide to:
 - If the case goes to court, the victim will be contacted before the trial by the Witness Care Unit. They will be the victim’s single point of contact from then on, and will inform and support the victim at court.
 
 ## 5. Post-Decision
+http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3
 
 If the case goes to court, the victim will be contacted before the trial by the Witness Care Unit. They will be the victim’s single point of contact from then on, and will inform and support the victim at court.
 

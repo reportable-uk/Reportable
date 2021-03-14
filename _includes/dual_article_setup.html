@@ -1,0 +1,73 @@
+{% assign left_include = include.left_page %}
+{% assign right_include = include.right_page %}
+
+{% assign left_nodes = left_include | markdownify | strip | split: '<h' %}
+{% assign right_nodes = right_include | markdownify | strip | split: '<h' %}
+
+{% assign firstHeader = true %}
+{% assign currLevel = 0 %}
+{% assign lastLevel = 0 %}
+{% assign minHeader = 1 %}
+{% assign maxHeader = 6 %}
+
+{% for leftNode in left_nodes %}
+
+  {% if leftNode == "" %}
+    {% continue %}
+  {% endif %}
+
+  {% assign currLevel = leftNode | replace: '"', '' | slice: 0, 1 | times: 1 %}
+  {% if currLevel < minHeader or currLevel > maxHeader %}
+      {% continue %}
+  {% endif %}
+  {% assign rightNodeIndex = forloop.index | minus:1 %}
+  {% assign rightNode = right_nodes[rightNodeIndex] %}
+
+  {% assign _leftWorkspace = leftNode | split: '</h' %}
+  {% assign _leftIdWorkspaceNumberText = _leftWorkspace[0] | split: 'id="' %}
+  {% assign _leftIdWorkspaceText = _leftIdWorkspaceNumberText[1] | split: '"' %}
+  {% assign _leftIdWorkspaceNumber = _leftIdWorkspaceNumberText[0] | strip %}
+  {% assign leftHtmlID = _leftIdWorkspaceText[0] %}
+
+  {% assign _rightWorkspace = rightNode | split: '</h' %}
+  {% assign _rightIdWorkspaceNumberText = _rightWorkspace[0] | split: 'id="' %}
+  {% assign _rightIdWorkspaceText = _rightIdWorkspaceNumberText[1] | split: '"' %}
+  {% assign _rightIdWorkspaceNumber = _rightIdWorkspaceNumberText[0] | strip %}
+  {% assign rightHtmlID = _rightIdWorkspaceText[0] %}
+
+  {% if firstHeader %}
+    {% assign minHeader = currLevel %}
+  {% endif %}
+
+  {% capture _lefthAttrToStrip %}{{ _leftWorkspace[0] | split: '>' | first }}>{% endcapture %}
+  {% assign leftHeader = _leftWorkspace[0] | replace: _lefthAttrToStrip, '' %}
+  {% assign lefthTag = '</h' | append: _leftIdWorkspaceNumber | append: '>' %}
+  {% assign leftDisplayContent = leftNode | split: lefthTag %}
+
+  {% capture _righthAttrToStrip %}{{ _rightWorkspace[0] | split: '>' | first }}>{% endcapture %}
+  {% assign rightHeader = _rightWorkspace[0] | replace: _righthAttrToStrip, '' %}
+  {% assign righthTag = '</h' | append: _rightIdWorkspaceNumber | append: '>' %}
+  {% assign rightDisplayContent = rightNode | split: righthTag %}
+
+  <div class="grid">
+    <div class="cell cell--12 cell--lg-6 content">
+      <div class="js-article-left-content">
+        <h{{ _leftIdWorkspaceNumber }} id="{{ leftHtmlID }}"> {{ leftHeader }} </h{{ _leftIdWorkspaceNumber}}>
+        {{ leftDisplayContent[1] }}
+      </div>
+    </div>
+    <div class="cell cell--12 cell--lg-6 content">
+      <div class="js-article-right-content">
+        <h{{ _rightIdWorkspaceNumber }} id="{{ rightHtmlID }}"> {{ rightHeader }} </h{{ _rightIdWorkspaceNumber}}>
+        {{ rightDisplayContent[1] }}
+      </div>
+    </div>
+  </div>
+<!--  <h{{ _leftIdWorkspaceNumber }} id="{{ leftHtmlID }}"> {{ leftHeader }} </h{{ _leftIdWorkspaceNumber}}>-->
+<!--  {{ leftDisplayContent[1] }}-->
+<!--  <h{{ _rightIdWorkspaceNumber }} id="{{ rightHtmlID }}"> {{ rightHeader }} </h{{ _rightIdWorkspaceNumber}}>-->
+<!--  {{ rightDisplayContent[1] }}-->
+  {% assign lastLevel = currLevel %}
+  {% assign firstHeader = false %}
+
+{% endfor %}
