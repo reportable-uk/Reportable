@@ -1,132 +1,54 @@
 header:
   - titles:
-      # @start locale config
-      en      : &EN       Home
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
+      en : Home
+      zh-hant : 主頁
+      zh-hans : 主页
+      en-zh-hant : Home 主頁
+      en-zh-hans : Home 主页
     url: /
 
-  - title: Guidebook
-    url: /guidebook/en-zh-hant/
+  - titles:
+      en: Guidebook
+      zh-hant: 指南
+      zh-hans: 指南
+      en-zh-hant: Guidebook 指南
+      en-zh-hans: Guidebook 指南
+    url: /guidebook/en-zh-hant/introduction
     key: guidebook
 
   - titles:
-      # @start locale config
-      en      : &EN       Find Support
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
+      en: Find support
+      zh-hant: 尋求幫助
+      zh-hans: 寻求帮助
+      en-zh-hant: Find support 尋求幫助
+      en-zh-hans: Find support 寻求帮助
     url: /content/en/support
 
   - titles:
-      # @start locale config
-      en      : &EN       Our Story
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /story.html
+      en: Our Story
+      zh-hant: 我們的故事
+      zh-hans: 我们的故事
+      en-zh-hant: Our Story 我們的故事
+      en-zh-hans: Our Story 我们的故事
+    url: /content/en/our-story
 
   - titles:
-      # @start locale config
-      en      : &EN       Contact Us
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
+      en: Contact Us
+      zh-hant: 聯繫我們
+      zh-hans: 联系我们
+      en-zh-hant: Contact Us 聯繫我們
+      en-zh-hans: Contact Us 联系我们
     url: /contact-us.html
 
   - titles:
-      # @start locale config
-      en      : &EN       Community
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
+      en: Contact Us
+      zh-hant: 聯繫我們
+      zh-hans: 联系我们
+      en-zh-hant: Contact Us 聯繫我們
+      en-zh-hans: Contact Us 联系我们
     url: /community.html
+
+# GUIDEBOOK NAVIGATION
 
 guidebook-en:
   - title:      Guidebook
@@ -142,30 +64,58 @@ guidebook-en:
       - title:  What are your rights after reporting?
         url:    /guidebook/en/rights-after-reporting
 
-guidebook-en-zh-Hans:
-  - title:      Guidebook
+guidebook-zh-hans:
+  - title:      指南
     children:
-      - title:  Introduction
-        url:    /guidebook/en/introduction
-      - title:  What is hate crime?
-        url:    /guidebook/en/what-is-hate-crime
-      - title:  How to report hate crimes and hate incidents?
-        url:    /guidebook/en/how-to-report
-      - title:  What can you expect to happen after reporting?
-        url:    /guidebook/en/after-reporting
+      - title:  简介
+        url:    /guidebook/zh-hans/introduction
+      - title:  什么是仇恨犯罪
+        url:    /guidebook/zh-hans/what-is-hate-crime
+      - title:  如何举报仇恨犯罪？
+        url:    /guidebook/zh-hans/how-to-report
+      - title:  举报之后会发生什么？
+        url:    /guidebook/zh-hans/after-reporting
       - title:  What are your rights after reporting?
-        url:    /guidebook/en/rights-after-reporting
+        url:    /guidebook/zh-hans/rights-after-reporting
 
-guidebook-en-zh-Hant:
-  - title:      Guidebook
+guidebook-zh-hant:
+  - title:      指南
+    children:
+      - title:  簡介
+        url:    /guidebook/zh-hant/introduction
+      - title:  What is hate crime?
+        url:    /guidebook/zh-hant/what-is-hate-crime
+      - title:  How to report hate crimes and hate incidents?
+        url:    /guidebook/zh-hant/how-to-report
+      - title:  What can you expect to happen after reporting?
+        url:    /guidebook/zh-hant/after-reporting
+      - title:  What are your rights after reporting?
+        url:    /guidebook/zh-hant/rights-after-reporting
+
+guidebook-en-zh-hans:
+  - title:      Guidebook 指南
+    children:
+      - title:  Introduction 简介
+        url:    /guidebook/en-zh-hans/introduction
+      - title:  What is hate crime?
+        url:    /guidebook/en-zh-hans/what-is-hate-crime
+      - title:  How to report hate crimes and hate incidents?
+        url:    /guidebook/en-zh-hans/how-to-report
+      - title:  What can you expect to happen after reporting?
+        url:    /guidebook/en-zh-hans/after-reporting
+      - title:  What are your rights after reporting?
+        url:    /guidebook/en-zh-hans/rights-after-reporting
+
+guidebook-en-zh-hant:
+  - title:      Guidebook 指南
     children:
       - title:  Introduction 簡介
-        url:    /guidebook/enzhhant/introduction
+        url:    /guidebook/en-zh-hant/introduction
       - title:  What is hate crime?
-        url:    /guidebook/enzhhant/what-is-hate-crime
+        url:    /guidebook/en-zh-hant/what-is-hate-crime
       - title:  How to report hate crimes and hate incidents?
-        url:    /guidebook/enzhhant/how-to-report
+        url:    /guidebook/en-zh-hant/how-to-report
       - title:  What can you expect to happen after reporting?
-        url:    /guidebook/enzhhant/after-reporting
+        url:    /guidebook/en-zh-hant/after-reporting
       - title:  What are your rights after reporting?
-        url:    /guidebook/enzhhant/rights-after-reporting
+        url:    /guidebook/en-zh-hant/rights-after-reporting
