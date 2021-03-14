@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: $$Guidebook in Chinese T
+titles: 内容简介
 aside:
   toc: true
 permalink: /guidebook/zh-hant/introduction

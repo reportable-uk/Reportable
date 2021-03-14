@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: $$what is hate crime in Chinese T
+titles: 什么是仇恨犯罪？
 permalink: /guidebook/zh-hant/what-is-hate-crime
 aside:
   toc: true

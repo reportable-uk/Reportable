@@ -76,7 +76,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /story.html
+    url: /content/en/our-story
 
   - titles:
       # @start locale config
