@@ -69,7 +69,7 @@ The message displayed can be seen as expressing a prejudice and hostility toward
 
 The purpose of the case studies shown above is to illustrate that there is a fine line between hate crimes , hate incidents and other general crime. It can be incredibly difficult to distinguish one from another. The police strongly encourage the report of BOTH hate crime and hate incidents. The victim should never be required to work out the nature of the event before to be “eligible” to make a report. When making a report, the victim should mention that hate is involved if they subjectively experienced so.
 
-## 哪些仇恨犯罪是值得舉報的？為何應當舉報仇恨法罪？
+## 哪些仇恨犯罪是值得舉報的？為何應當舉報仇恨法罪？
 
 當您舉報仇恨犯罪時，您就會替遏止仇恨犯罪出一份力。不管您認為您所遭受的事件有多麼得輕微， 對廣大社群來說，認識到仇恨犯罪的發生和舉報都是至關重要的。
 
