@@ -35,10 +35,20 @@ What can the police do?​
 - If the offender has been caught, remanded in custody, released on bail or convicted, the criminal court can make a restraining order to stop them coming near, threatening or intimidating the victim again.
 
 ## Secondary victimisation
-[To be populated]
+
+Secondary victimisation refers to victimisation that occurs not as a direct result of the criminal act but through the response of institutions and individuals to the victim.
+
+This can involve indifference, rejection, or additional criminal charges levied by the police against the victim.
+
+There is currently no explicit guidance in place to address potential issues of secondary victimisation when dealing with hate crimes or incidents.
+
+If you suspect that you or any victim has been subject to secondary victimisation related to a hate crime or incident, please contact [CASVIC](https://www.hackneychinese.org.uk/post/casvic-launches-a-national-hate-crime-survey-for-east-and-southeast-asians) (the Campaign against Secondary Victimisation) at casvic.org@gmail.com.
+
 
 ## Self-defense
-[To be populated]
+A victim can engage in self-defense by use of force, but only as a defence of crimes committed against the victim, and only by use of a reasonable amount of force given the circumstances.
+
+If self-defense has taken place in response to a hate crime, please make sure to explicitly flag this to the police when reporting the crime to avoid further secondary victimisation of the victim during the investigation process.
 
 ## How to make a complaint
 In order to launch a complaint against the police, you can:
