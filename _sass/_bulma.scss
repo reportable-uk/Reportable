@@ -1,1 +1,10 @@
-@import "../node_modules/bulma/bulma.sass";
+/*! bulma.io v0.9.2 | MIT License | github.com/jgthms/bulma */
+@import "bulma_sass/utilities/_all",
+        "bulma_sass/base/_all",
+        "bulma_sass/elements/_all",
+        "bulma_sass/form/_all",
+        "bulma_sass/components/_all",
+        "bulma_sass/grid/_all",
+        "bulma_sass/helpers/_all",
+        "bulma_sass/layout/_all"
+;
