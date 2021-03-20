@@ -13,7 +13,7 @@ header:
       zh-hans: 指南
       en-zh-hant: Guidebook 指南
       en-zh-hans: Guidebook 指南
-    url: /guidebook/en-zh-hant/
+    url: /guidebook/en-zh-hant/introduction
     key: guidebook
 
   - titles:
@@ -30,7 +30,7 @@ header:
       zh-hans: 我们的故事
       en-zh-hant: Our Story 我們的故事
       en-zh-hans: Our Story 我们的故事
-    url: /story.html
+    url: /content/en/our-story
 
   - titles:
       en: Contact Us

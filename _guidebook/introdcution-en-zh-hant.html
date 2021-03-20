@@ -1,0 +1,15 @@
+---
+layout: dual_article
+title: Introduction 简介
+permalink: /guidebook/en-zh-hant/introduction
+key: guidebook
+sidebar:
+  nav: guidebook-en-zh-hant
+aside:
+  toc: true
+---
+
+{% capture left_include %}{% include_relative en/raw-en/introduction.md %}{% endcapture %}
+{% capture right_include %}{% include_relative zh-hant/raw-zh-hant/introduction.md %}{% endcapture %}
+
+{% include dual_article_setup.html left_page=left_include right_page=right_include %}
