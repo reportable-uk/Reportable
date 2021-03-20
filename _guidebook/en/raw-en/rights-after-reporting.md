@@ -1,5 +1,3 @@
-Victims' rights in relation to police investigation
-
 ## When you report a crime
 The police must provide the person who has reported the crime and/or the victim with:
 - written confirmation of the crime reported
@@ -15,7 +13,7 @@ They must also:
 - Ask a victim support organisation to contact the victim within 2 days
 - Ask if the victim wants to write a statement about how the crime has affected him/her. This is called a ‘victim personal statement’. It can be used later when the court is deciding on a punishment.
 
-**[Specify how often the police will actually provide an update and when you have the right to follow-up]**
+*[Specify how often the police will actually provide an update and when you have the right to follow-up]*
 
 ## During the police investigation
 The police must update the victim on the progress of their investigation, and tell the victim within 5 days when a suspect is:
@@ -36,7 +34,7 @@ What can the police do?​
 
 ## Secondary victimisation
 
-Secondary victimisation refers to victimisation that occurs not as a direct result of the criminal act but through the response of institutions and individuals to the victim.
+Secondary victimisation refers to victimisation that occurs not as a direct result of the criminal act but through the response of institutions and individuals to the victim.[^1]
 
 This can involve indifference, rejection, or additional criminal charges levied by the police against the victim.
 
@@ -44,11 +42,14 @@ There is currently no explicit guidance in place to address potential issues of 
 
 If you suspect that you or any victim has been subject to secondary victimisation related to a hate crime or incident, please contact [CASVIC](https://www.hackneychinese.org.uk/post/casvic-launches-a-national-hate-crime-survey-for-east-and-southeast-asians) (the Campaign against Secondary Victimisation) at casvic.org@gmail.com.
 
+[^1]:Council of Europe (CoE) (2006), Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims, https://rm.coe.int/16805afa5c
 
 ## Self-defense
-A victim can engage in self-defense by use of force, but only as a defence of crimes committed against the victim, and only by use of a reasonable amount of force given the circumstances.
+A victim can engage in self-defense by use of force, but only as a defence of crimes committed against the victim, and only by use of a reasonable amount of force given the circumstances.[^2]
 
 If self-defense has taken place in response to a hate crime, please make sure to explicitly flag this to the police when reporting the crime to avoid further secondary victimisation of the victim during the investigation process.
+
+[^2]:CPS, https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime
 
 ## How to make a complaint
 In order to launch a complaint against the police, you can:
