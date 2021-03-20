@@ -19,5 +19,4 @@ All liability with respect to actions taken or not taken based on the contents o
 
 [^1]: YouGov June 2020 BAME survey, https://docs.cdn.yougov.com/6pg6w1fadp/YouGov%20Racism%20BAME%20June%202020%202.pdf
 [^2]: The Independent, 'Coronavirus: Hate crimes against Chinese people almost triple in UK during pandemic, police data shows', https://www.independent.co.uk/news/uk/home-news/coronavirus-uk-hate-crimes-chinese-people-china-a9499991.html
-[^3]: L1ght, 'Rising Levels of Hate Speech & Online Toxicity
-During This Time of Crisis', https://l1ght.com/Toxicity_during_coronavirus_Report-L1ght.pdf
+[^3]: L1ght, 'Rising Levels of Hate Speech & Online Toxicity During This Time of Crisis', https://l1ght.com/Toxicity_during_coronavirus_Report-L1ght.pdf

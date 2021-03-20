@@ -1,4 +1,4 @@
-## When you report a crime
+## When you report a crime
 The police must provide the person who has reported the crime and/or the victim with:
 - written confirmation of the crime reported
 - a crime reference number
@@ -15,7 +15,7 @@ They must also:
 
 *[Specify how often the police will actually provide an update and when you have the right to follow-up]*
 
-## During the police investigation
+## During the police investigation
 The police must update the victim on the progress of their investigation, and tell the victim within 5 days when a suspect is:
 - arrested or charged
 - set free or released on bail
@@ -25,7 +25,7 @@ When the police have finished their investigation, they can pass the information
 
 If the police or the CPS decide to drop the charge, they must notify the victim within 5 days. You can ask for a review if you disagree with their decision.
 
-## Protecting the victim
+## Protecting the victim
 If the victim is harassed or threatened in any way during an investigation or a trial, you should contact the police immediately or advise them to do so.
 
 What can the police do?​
