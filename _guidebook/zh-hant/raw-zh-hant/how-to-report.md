@@ -1,6 +1,6 @@
 ## 舉報之前可考慮的因素
 
-### Quick guide to Reporting
+### 快速舉報流程圖
 
 ![Reporting Flowchart](/assets/images/ReportingFlowchart.png)
 
