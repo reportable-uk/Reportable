@@ -1,12 +1,12 @@
-## Pre-reporting considerations
+## 舉報之前可考慮的因素
 
-### Quick guide to Reporting
+### 快速舉報流程圖
 
 ![Reporting Flowchart](/assets/images/ReportingFlowchart.png)
 
-### Common considerations with reporting
+### 關於舉報的常見問題
 
-#### The victim does not want to speak with the police, or is afraid of retaliation from the perpetrator
+#### 受害人不想接觸警察，或是害怕遭到歹徒的報復，怎麼辦？
 
 It’s okay to feel worried or uncertain about what will happen after reporting. You can tell victims that the police deal with these sorts of cases every day, will treat everybody fairly and equally, and will put your safety first. Alternatively, there are ways to make the report without needing to interact with the police or be identified, such as through third party reporting centres, or reporting anonymously (detailed below).  
 
@@ -24,7 +24,7 @@ If the victim is not comfortable speaking with the police, or would prefer to re
 
 Some witnesses who feel intimidated or vulnerable, because they are young or disabled for example, and may need help giving evidence. In these cases, witnesses may be entitled to ‘special measures’. This could involve placing a screen between the witness box and the defendant or giving evidence with the help of a specialist.
 
-​For more details on your rights as a witness and the trial process, please refer to the [Victim Support](https://www.victimsupport.org.uk/going-court/your-rights-witness) website.
+​For more details on your rights as a witness and the trial process, please refer to Victim Support at https://www.victimsupport.org.uk/going-court/your-rights-witness
 
 #### The victim does not think the incident is serious enough or is worth reporting
 
@@ -37,12 +37,12 @@ Every report builds up a picture of what is really going on in your local area, 
 
 Even if you think your report might not lead to any immediate substantive results, it will benefit the wider community.
 
-## What are the ways to report and why you should consider different ways
+## 有哪些舉報仇恨犯罪的途徑？通過不同途徑舉報有何益處？
 
-### 1. Online reporting
+### 1.  电话报警
 
 #### What is this solution:
-All hate crimes and incidents can be reported online using the [True Vision](https://www.report-it.org.uk/your_police_force) platform, which typically takes 10-20 minutes to complete.
+All hate crimes and incidents can be reported online using the **True Vision** platform (https://www.report-it.org.uk/your_police_force), which typically takes 10-20 minutes to complete/
 
 #### Why/when to choose this solution:
 - Reporting online is the easiest and most effective way to capture information, and should be prioritised where convenient
@@ -97,7 +97,7 @@ Examples include:
 
 Click here to find a list of local third party reporting centres links to the support section for a full list of TPRCs
 
-To find out the how Third Party Reporting Centre process claims, click [here](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf).
+To find out the how Third Party Reporting Centre process claims, click here: https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf
 
 #### Why/when to choose this solution:
 Use third-party reporting centres if the victim is uncomfortable speaking directly to the police, or would like to seek support tailored to their community (e.g.Tell MAMA for victims of Islamophobia, GALOP for victims of LGBTQ+ hate).
@@ -111,7 +111,7 @@ In addition to TrueVision and third party reporting centres, crimes may also be 
 
 Report via the following methods:
 - Phone: 0800 555111, it is free to call
-- [Report online](https://crimestoppers-uk.org/give-information/forms/give-information-anonymously)
+- Report online: https://crimestoppers-uk.org/give-information/forms/give-information-anonymously
 
 Information that Crimestoppers cannot process:
 - Emergency
@@ -134,7 +134,7 @@ Choose this when the victim wants to pass details of a hate crime (or any other)
 ### 7. Social Media
 
 #### What is this solution:
-StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See [here](https://www.stophateuk.org/how-to-report-online-hate/) for more info.
+StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See https://www.stophateuk.org/how-to-report-online-hate/
 
 #### Why/when to choose this solution:
 Choose this if the crime or incident happened occured online.
