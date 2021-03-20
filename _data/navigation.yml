@@ -13,7 +13,7 @@ header:
       zh-hans: 指南
       en-zh-hant: Guidebook 指南
       en-zh-hans: Guidebook 指南
-    url: /guidebook/en-zh-hant/
+    url: /guidebook/en/introduction
     key: guidebook
 
   - titles:
@@ -38,15 +38,15 @@ header:
       zh-hans: 联系我们
       en-zh-hant: Contact Us 聯繫我們
       en-zh-hans: Contact Us 联系我们
-    url: /contact-us.html
+    url: /content/en/contact
 
   - titles:
-      en: Contact Us
-      zh-hant: 聯繫我們
-      zh-hans: 联系我们
-      en-zh-hant: Contact Us 聯繫我們
-      en-zh-hans: Contact Us 联系我们
-    url: /community.html
+      en: News
+      zh-hant: 消息
+      zh-hans: 消息
+      en-zh-hant:  News 消息
+      en-zh-hans: News 消息
+    url: /content/en/news
 
 # GUIDEBOOK NAVIGATION
 
