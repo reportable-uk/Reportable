@@ -43,6 +43,10 @@
   @include clickable($text-color-function, $red);
 }
 
+.button--reportable {
+  @include clickable($text-color-function,rgb(124,199,187));
+}
+
 .button--theme-light {
   @include clickable($text-color-theme-dark, $main-color-theme-light);
 }
@@ -85,6 +89,12 @@
   color: $red;
   border: 1px solid $red;
   @include clickable($red, transparent, $text-color-function, $red);
+}
+
+.button--outline-reportable {
+  color: $red;
+  border: 1px solid rgb(124,199,187);
+  @include clickable(rgb(124,199,187), transparent, $text-color-function, rgb(124,199,187));
 }
 
 .button--outline-theme-light {
