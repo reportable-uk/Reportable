@@ -2,7 +2,6 @@
 .card {
   max-width: 18rem;
   border-radius: map-get($base, border-radius);
-  @include box-shadow();
   @include transition(box-shadow map-get($animation, duration) map-get($animation, timing-function));
   & > :first-child {
     border-top-left-radius: map-get($base, border-radius);
@@ -34,8 +33,9 @@
   & > img {
     display: block;
     width: 100%;
-    height: auto;
-    border-radius: inherit;
+    height: 100%;
+    border-radius: 100px;
+    padding: map-get($spacers, 2);
   }
   & > .overlay {
     position: absolute;

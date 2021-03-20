@@ -3,7 +3,7 @@ layout: articles
 title: Find Support
 mode: immersive
 header:
-  theme: Dark
+  theme: dark
 article_header:
   type: overlay
   theme: dark
