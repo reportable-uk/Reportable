@@ -1,10 +1,12 @@
 ---
 layout: article
 title: How to Report
-aside:
-  toc: true
 permalink: /guidebook/en/how-to-report
 key: guidebook-how
+sidebar:
+  nav: guidebook-en
+aside:
+  toc: true
 ---
 
 {% include_relative raw-en/how-to-report.md %}
