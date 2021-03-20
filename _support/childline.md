@@ -2,15 +2,13 @@
 layout: article
 title: Childline
 mathjax: true
-article_header:
-  type: cover
-  image:
-    src: /support/assets/logos/childline.png
 cover: /support/assets/logos/childline.png
 tags:
   - Counselling Service
+  - Children and Young People
+show_date: false
 ---
 
-A confidential and free online and phone counselling service for those aged under 19 anywhere in the UK.
+[Childline Website](http://www.childline.org.uk/){:.button.button--primary.button--rounded}
 
-[Childline Website](http://www.childline.org.uk/)
+A confidential and free online and phone counselling service for those aged under 19 anywhere in the UK.

@@ -76,7 +76,7 @@ The message displayed can be seen as expressing a prejudice and hostility toward
 
 The purpose of the case studies shown above is to illustrate that there is a fine line between hate crimes , hate incidents and other general crime. It can be incredibly difficult to distinguish one from another. The police strongly encourage the report of BOTH hate crime and hate incidents. The victim should never be required to work out the nature of the event before to be “eligible” to make a report. When making a report, the victim should mention that hate is involved if they subjectively experienced so.
 
-## Why report hate crime and hate incidents?
+## Why report hate crime and hate incidents?
 
 When you report hate crime, you become part of the movement to stop it. No matter how small or trivial you think the incident might be, it is important to the whole community that it is acknowledged and reported.
 
