@@ -2,16 +2,13 @@
 layout: article
 title: Choice in Hackney
 mathjax: true
-article_header:
-  type: cover
-  image:
-    src: /support/assets/logos/choiceinhackney.png
 cover: /support/assets/logos/choiceinhackney.png
 tags:
   - Disability Community Centre
   - 殘疾社區中心
+show_date: false
 ---
 
-Charity that aims to empower all disabled people and provide advocacy, support and training
+[Choice in Hackney Website](https://www.choiceinhackney.org/){:.button.button--primary.button--rounded}
 
-[Choice in Hackney Website](https://www.choiceinhackney.org/)
+Charity that aims to empower all disabled people and provide advocacy, support and training

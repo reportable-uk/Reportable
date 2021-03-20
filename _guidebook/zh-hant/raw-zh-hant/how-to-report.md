@@ -1,12 +1,12 @@
 ## 舉報之前可考慮的因素
 
-### Quick guide to Reporting
+### 快速舉報流程圖
 
 ![Reporting Flowchart](/assets/images/ReportingFlowchart.png)
 
-### Common considerations with reporting
+### 關於舉報的常見問題
 
-#### The victim does not want to speak with the police, or is afraid of retaliation from the perpetrator
+#### 受害人不想接觸警察，或是害怕遭到歹徒的報復，怎麼辦？
 
 It’s okay to feel worried or uncertain about what will happen after reporting. You can tell victims that the police deal with these sorts of cases every day, will treat everybody fairly and equally, and will put your safety first. Alternatively, there are ways to make the report without needing to interact with the police or be identified, such as through third party reporting centres, or reporting anonymously (detailed below).  
 
