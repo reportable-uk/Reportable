@@ -44,7 +44,7 @@
 }
 
 .button--reportable {
-  @include clickable($text-color-function,rgb(124,199,187));
+  @include clickable($text-color-function,#4CB1A0);
 }
 
 .button--theme-light {
