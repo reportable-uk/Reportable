@@ -6,171 +6,122 @@
 
 ### 關於舉報的常見問題
 
-#### 受害人不想接觸警察，或是害怕遭到歹徒的報復，怎麼辦？
+#### 受害人不願意接觸警方，或是害怕歹徒會進行報復
 
-It’s okay to feel worried or uncertain about what will happen after reporting. You can tell victims that the police deal with these sorts of cases every day, will treat everybody fairly and equally, and will put your safety first. Alternatively, there are ways to make the report without needing to interact with the police or be identified, such as through third party reporting centres, or reporting anonymously (detailed below).  
+對於舉報可能產生的後果有擔心是非常正常的。您可以向受害人說明，警方每天都會處理大量的類似案件，並會對所有案件一視同仁。警方在處理案件的同時會把受害人的安全放在第一位。並且，受害人也可以選擇通過第三方平台在不與警方接觸、保持完全匿名的情況向將案件通報給警方（具體方式請見下文）。
 
-#### The victim is not comfortable with speaking in English
+#### 受害人的無法用英語溝通
 
-If the victim is not comfortable with speaking English, this may deter them from reporting the incident. You can help victims to report the crime by calling the police for them or accompanying them to the police station.The police may also be able to provide an interpreter. You should advise the victim to request one to overcome any language barrier.
+如果受害人無法用英語溝通，這可能會使得他們不願意舉報所遭受的案件。您可以幫助受害人打電話報警或與受害人一起前往警局報案。在很多情況下警方也可為受害人提供翻譯，您應該建議受害人向警方要求翻譯以確保受害人能用母語正常舉報。
 
-#### The victim does not want to speak with the police
+#### 受害人不想跟警方溝通
 
-If the victim is not comfortable speaking with the police, or would prefer to remain anonymous, there are ways to make the report without needing to interact with the police or be identified (see above):
-- If your community centre is a third party reporting centre, then you can submit a report on their behalf.
-- Alternatively, reports can be submitted anonymously via CrimeReport or TrueVision.
 
-#### The victim is not comfortable being a witness or testifying in court
+如果受害人不願意跟警方溝通，或是傾向保持匿名，目前有很多種方式在不與警方接觸、匿名的情況下通過第三方平台進行舉報：
+- 如果您的社區中心是第三方舉報平台，您可替受害人進行舉報；或
+- 受害人可通過CrimeReprot或TrueVision進行匿名舉報。
 
-Some witnesses who feel intimidated or vulnerable, because they are young or disabled for example, and may need help giving evidence. In these cases, witnesses may be entitled to ‘special measures’. This could involve placing a screen between the witness box and the defendant or giving evidence with the help of a specialist.
 
-​For more details on your rights as a witness and the trial process, please refer to Victim Support at https://www.victimsupport.org.uk/going-court/your-rights-witness
+#### 受害人對擔任證人或出庭有顧慮
 
-#### The victim does not think the incident is serious enough or is worth reporting
+有些人會害怕擔任案件的證人，這可能是因為他們很年輕、身有殘疾或是在提交證據的過程中需要額外的幫助。在這種情況下，證人可能有權申請“特殊幫助”。這包括在出庭時要求在證人席和被告之間豎起隔擋，以確保被告看不見證人。證人也可要求在專業人士的幫助下提交證據。
 
-The police strongly encourage the report of BOTH hate crime AND hate incidents. It is important to the whole community that it is acknowledged and reported.
+​有關更多證人的法律權利，請參考Victim Support的網站：：https://www.victimsupport.org.uk/going-court/your-rights-witness
 
-Every report builds up a picture of what is really going on in your local area, showing patterns of behaviour against a certain group or by particular individuals. Reporting of the issue can:
-- Help police adjust plans like where, when and how they deploy resources.
-- Help local agencies like the police and councils understand the issue, so that they can educate, inform and protect everyone in the area.
-- Build a more accurate statistical picture of the issue and inform prosecutors, legislators and raise awareness with the general public.
 
-Even if you think your report might not lead to any immediate substantive results, it will benefit the wider community.
+#### 受害人不認為所遭受的事件很嚴重或是值得被舉報
 
-## 有哪些舉報仇恨犯罪的途徑？通過不同途徑舉報有何益處？
+如上文所強調，警方強烈鼓勵受害人積極舉報仇恨犯罪以及仇恨事件。對於整個社群來說，此類舉報是至關重要的。舉報仇恨事件以及仇恨犯罪可以：
+- 幫助警方調整計畫，比如警力資源的分佈；
+- 幫助當地的政府機構（比如警察或市政府）更好地理解仇恨問題，使他們能夠更好地教育並保護他們轄區中的居民；並且
+- 幫助建立更準確的關於仇恨犯罪的數據資料，這些數據可以被用於向檢察官、立法者和公眾說明嚴重的嚴重性。
 
-### 1.  电话报警
+就算您认为您的举报在短期內不會有任何實質性的結果，您的舉報仍將使廣大的社群受益。
 
-#### What is this solution:
-All hate crimes and incidents can be reported online using the **True Vision** platform (https://www.report-it.org.uk/your_police_force), which typically takes 10-20 minutes to complete/
+##舉報的方法、途徑以及適用情況
 
-#### Why/when to choose this solution:
-- Reporting online is the easiest and most effective way to capture information, and should be prioritised where convenient
-- The case will be dealt with by police professionals experienced with handling hate crimes and incidents
-- Note that reports can be submitted anonymously
+### 1. 線上報案
+#### 報案方法
+- 受害人可通過True Vision的線上平台舉報任何仇恨犯罪或仇恨事件。平台鏈接： https://www.report-it.org.uk/your_police_force *（表格填寫時間：10-20分鐘）*
 
-**Do not report online if:**
-- The offender is still present​
-- You or anyone else is seriously hurt or in danger
-- You think the offender may return
 
-### 2. Call the Police
+#### 適用情況
+- 線上報案是最簡單、迅速和有效的報案方法，在非緊急情況下應該被優先考慮。此類舉報會由負責處理仇恨犯罪的警方專業人士處理。True Vision的平台支持匿名舉報的選項。
 
-#### What is this solution:
-Reporting a crime over the phone directly to the police
+- 在下列情況下**請勿**在線上進行舉報：
+  - 加害者仍在附近；
+  - 您認為加害者有可能回到案發現場；或
+  - 您或是其他人受傷了或是仍處在危險中；
 
-- **Call 999 if the crime is in progress or if someone is in immediate danger.**
-- Call 101 if the crime isn’t an emergency.
+- 上述情況下，請撥打999緊急報警電話。
 
-#### Why/when to choose this solution
-Choose this solution if you would prefer to speak to someone over the phone, if the crime is in progress or if someone is in immediate danger.
+### 2. 電話報警
+#### 報案方法
+- 請通過電話直接向警方進行報案：
+  - 當犯罪仍在繼續或有人處在危險中時，請撥打**999**
+  - 舉報非緊急情況，請撥打**101**
 
-### 3. Visit local police station
+#### 適用情況
+- 受害人/舉報人傾向通過電話與人交流；
+- 事件/犯罪行為仍在進行；
+- 加害者仍在附近；
+- 您認為加害者有可能回到案發現場；或
+- 您或是其他人受傷了或是仍處在危險中。
 
-#### What is this solution:
-Reporting by visiting your local police station. Details on how to contact your local police force can be found at www.police.uk
+### 3. 前往附近警局報案
+#### 報案方法
+- 受害人可直接前往警局進行報案。
+- 點擊此連結可查詢距離您最近的警局: www.police.uk
 
-#### Why/when to choose this solution:
-- Report in-person if you have a local police contact, or if the crime is in progress or if someone is in immediate danger
-- Note that in cases with no immediate threat or emergency, reporting in person may result in long waiting times
+#### 適用情況
+- 如果您在當地警察局有聯絡人、犯罪仍在繼續或有人正面臨緊急的危險。
+- 請注意，在情況不緊急的情況下，前往警局報案可能會耗費一定時間。
 
-### 4. Report it directly with British Transport Police
+### 4. 直接向英國交通警察報案
+#### 報案方法
+- 請通過以下渠道向英國交通警察報案：
+  - 發送短信至61016，請在短信內容裡面敘述您遭受或目擊的犯罪或事件
+  - 前往英國交通警察網站進行線上報案： http://www.btp.police.uk/contact_us/report_a_crime.aspx *（表格填寫時間：10-20分鐘）*
 
-#### What is this solution:
-- Reporting incidents on public transport directly to the British Transport Police
-  - ​Report by text: send message to 61016 to report a crime or incident
-  - Report online: http://www.btp.police.uk/contact_us/report_a_crime.aspx
+#### 適用情況
+- 事件發生在公共交通上（巴士、電車、火車、地下鐵）。
+- 請注意，您仍然可向警方通報發生在公共交通上的仇恨事件/案件。警方在收到您的舉報以後，警方會將您的案件轉給英國交通警察。因此，直接向交通警察報案有助於縮短案件處理的時間。
 
-#### Why/when to choose this solution:
-- Report through this channel if the hate crime or incident happened on public transport, such as buses, trams, trains, and the underground.
-- Note that you can still report crimes that happened  on public transport to the police. After receiving your report, the police will then forward your case to the British Transport. Therefore, reporting to the British Police Transport directly may help to speed up the process.
+### 4. 通過第三方報案機構報案
+#### 報案方法
+- 目前英國有許多第三方舉報機構。這些機構具有替受害人舉報仇恨犯罪的權限，並可同時向受害人提供建議和幫助。
+- 第三方舉報機構包括：
+  - 市民諮詢局（Citizens Advice Bureau）
+  - 停止仇恨 (Stop Hate UK): 在英國各個區域皆有提供獨立保密的舉報服務，包括24小時熱線電話。
+  - 社區志愿服務（Community Voluntary Services）
+- 點擊此處獲取更多第三方機構的信息。links to the support section for a full list of TPRCs
+- 點擊此處了解第三方舉報機構工作流程：https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf
 
-### 5. Third Party Reporting Centres
 
-#### What is this solution:
-A wide range of agencies are able to report hate crimes and incidents on the victims’ behalf and provide them with advice and support.
+#### 適用情況
+- 如果受害人不想與警方接觸，或有有特殊的需求需要專業組織幫助，他們可直接聯絡能夠提供相關幫助的第三方舉報平台（e.g.Tell Mama可處理針對穆斯林的仇恨犯罪，GALOP可提供針對LGBTQ的仇恨犯罪）.
+- 有些第三方平台能夠幫助受害人匿名舉報。
 
-Examples include:
-- Citizens Advice Bureau
-- Stop Hate UK: provides confidential and independent reporting service in various areas in the UK, including a 24 - hour helpline.
-- Community Voluntary Services
 
-Click here to find a list of local third party reporting centres links to the support section for a full list of TPRCs
+### 5. 通過Crimestoppers進行匿名舉報
+#### 報案方法
+- 除True Vision和上述平台之外，受害人也可通過Crimestoppers進行匿名舉報：
+  - 免費電話：0800555111
+  - 線上舉報：https://crimestoppers-uk.org/give-information/forms/give-information-anonymously  *（表格填寫時間：10-20分鐘）*
+- Crimestoppers無法處理以下信息：
+  - 緊急情況
+  - 如果您是受害人
+  - 福利詐騙
+  - 垃圾信息或詐騙電話
+  - 未繳稅汽車
+  - 輕微的交通違章
+  - 遺棄的車輛
+  - 舉報噪音
+  - 亂丟垃圾
+  - 丟失人口
 
-To find out the how Third Party Reporting Centre process claims, click here: https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf
-
-#### Why/when to choose this solution:
-Use third-party reporting centres if the victim is uncomfortable speaking directly to the police, or would like to seek support tailored to their community (e.g.Tell MAMA for victims of Islamophobia, GALOP for victims of LGBTQ+ hate).
-
-These organisations may also allow you to report anonymously.
-
-### 6. Report Anonymously through Crimestoppers
-
-#### What is this solution:
-In addition to TrueVision and third party reporting centres, crimes may also be reported anonymously through Crimestoppers.
-
-Report via the following methods:
-- Phone: 0800 555111, it is free to call
-- Report online: https://crimestoppers-uk.org/give-information/forms/give-information-anonymously
-
-Information that Crimestoppers cannot process:
-- Emergency
-- If you are a victim of the crime
-- Benefit fraud
-- Scam emails or phone calls
-- Untaxed vehicles
-- Minor driving offences
-- Dumped vehicles
-- Noise complaints
-- Fly-tipping
-- Missing people
-
-#### Why/when to choose this solution:
-Choose this when the victim wants to pass details of a hate crime (or any other) offender but does not want to talk to the police at all
-- The person will not have to give his/her name
-- Everything said will remain confidential
-- The victim will never have to appear in court
-
-### 7. Social Media
-
-#### What is this solution:
-StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See https://www.stophateuk.org/how-to-report-online-hate/
-
-#### Why/when to choose this solution:
-Choose this if the crime or incident happened occured online.
-
-## How can the victim prepare for reporting
-
-### Before reporting
-
--  ​​Record details and keep evidence (Photos, videos or audio) of the incident .
-- Write down all the details of the incident as soon as you can including descriptions of the perpetrator(s), clothes they wore, any distinguishing marks, any nearby vehicles or witnesses, and anything they said such as homophobic/transphobic abuse or threats they made.
-- Any physical evidence that the perpetrator has left behind
-- Take photographs of any damage to property or your belongings, such as graffiti, or damage to your car.
-- If there are any witnesses, ask them for their contact details and ask them to write down what they saw, sign and date it, as soon as possible.
-- Keep any evidence safe, such as clothing, photographs and letters/notes. If the perpetrator may have left fingerprints somewhere, do not touch the area, let the police know.
-
-### What questions might be asked during reporting to the police/third party reporting centres
-
-*Please note that not knowing the answer of particular questions does not prevent a person from making a report.
-
--  ​Basic information of the victim and/or the reporter (Name, address, phone number, email, DOB)
-- Information of the perpetrator
-- Location of the crime
-  - Did it take place on public transport?
-  - Method of public transport? (e.g. bus, underground, tram, train, taxi)
-  - Journey details?
-- What has happened?
-- What suggests that the incident was motivated by hatred? (e.g. particular words or gesture used)
-- Injury and damage:
-  - Was anything stolen?
-  - Was anything damaged?
-  - Was anyone threatened, verbally abused or assaulted?
-- Evidence
-  - Has the suspect clearly left something at the scene; such as clothing, blood, any other bodily fluids, discarded items, obvious fingerprints or footprints? Or has the suspect caused any damage or made a mess searching?
-- Are there any CCTV cameras if relevant?
-  - Does the victim have any photo, audio or video evidence?
-  - Does the victim know if any other persons may have evidence.
-- Whether the victim is comfortable testifying/giving witness in court
-
-### Other areas of support available to the victim (to be added)
+#### 適用情況
+- 任何持有關於某件仇恨犯罪案件嫌疑人相關信息、並希望匿名舉報的人都可聯絡組織制止犯罪（'Crimestoppers'），並且：
+  - 舉報人並不需要提供姓名
+  - 舉報內容將完全保密
+  - 舉報人不會需要出席法庭

@@ -1,78 +1,98 @@
 ## 法律定義
 
-當受害者或其它人認為加害者是出於對受害人的殘疾、種族、宗教信仰、性取向或是跨性別者身分的敵意或歧視而進行犯罪時，此類犯罪行為就構成仇恨犯罪。
+> 仇恨犯罪 = 一般刑事犯罪 + 仇恨因素
 
-需要注意的是，只要加害人主觀認定受害人有某一特徵並且對此特徵抱有敵意或歧視，更進一步實施犯罪行為，那麼這一行為就構成仇恨犯罪，受害者並不需要真的擁有這一特徵。
+**仇恨犯罪**是任何被受敵意或偏見所驅使的**刑事犯罪**。當受害者或其他人認為加害者是出於對受害人的殘疾、種族、宗教信仰、性取向或是跨性別者身分的敵意或歧視而進行犯罪時，此類犯罪行為就構成仇恨犯罪。需要注意的是，只要加害人主觀認定受害人有某一特徵並且對此特徵抱有敵意或歧視，更進一步實施犯罪行為，那麼這一行為就構成仇恨犯罪，受害者並不需要真的擁有這一特徵。[^1]
 
-## 仇恨犯罪與一般犯罪的區別
+簡而言之，任何受仇恨驅動，且目前在英國法律下被視作刑事犯罪的行為都是仇恨犯罪。
 
-仇恨犯罪的形式有很多種：例如威脅、人身攻擊、破壞財產、騷擾/霸凌和其它的犯罪行為。
+[^1]: Metropolitan Police:  https://www.met.police.uk/advice/advice-and-information/hco/hate-crime/what-is-hate-crime/
 
-仇恨犯罪可能在任場所裡、任何情境下發生：比如面對面、文字、線上或社交媒體。
 
-仇恨犯罪是當加害人受對被害人的殘疾、種族、性取向和/或跨性別的敵視或歧視所驅使而進行的犯罪。
+## 仇恨因素的定義是什麼？
 
-## 仇恨事件輿仇恨犯罪的區別
+仇恨因素可以是：
+- **敵意**：惡意、惡感、怨恨、偏見、不友善、敵視、憎惡、反感
+- **偏見**：一種針對某一個特定群體並且毫無根據的、通常來說是負面的成見或態度。
 
-仇恨犯罪有多種形式。以下是一些仇恨犯罪的例子：​
+仇恨因素的建立並不需要受害人自己感覺到仇恨因素。只要有另外一個人（比如目擊者或警察）認為加害人是受仇恨因素所驅動， 那麼該事件就能被定性為仇恨相關事件。
+
+
+## 仇恨犯罪的種類
+
+如上所述，仇恨犯罪是帶有仇恨因素的刑事犯罪。它可能在任何地點以任何形式發生。以下是一些最常見的仇恨犯罪形式：
+
 - 襲擊
 - 刑事破壞
-- 騷擾
+- 刑事騷擾
 - 謀殺
-- 性騷擾
+- 性犯罪
 - 偷竊
-- 詐騙
-- 入室搶劫
-- ​仇恨郵件（1988年《惡意通訊法》）
-- ​故意造成騷擾、警戒或憂慮（1986年《公共秩序法》
-
-## 仇恨犯罪的例子
-
-A hate incident is any incident which the victim, or anyone else, thinks is based on someone’s prejudice towards them because of their race, religion, sexual orientation, disability or because they are transgender. In short, in a hate incident, the actions involved in the incident is not currently a criminal offence under the UK law.
-
-Whether it is a hate crime/hate incident, the victim should always be encouraged to make a report. The police strongly encourage the report of BOTH hate crime AND hate incidents.
+- 入室盜竊
+- 仇恨信件
 
 
-## Case studies
-Below we have provided a number of case studies to help work through incidents you or community members may encounter. Please read through them and think about whether one of the following has occurred:
+## 仇恨犯罪還是仇恨事件？
 
-1. Hate crime
-2. Hate incident
-3. General crime
-4. None of the above
+>仇恨事件 = 不是刑事犯罪的行為 + 仇恨因素
 
-### Case Study 1
+**仇恨事件**是任何受敵意或偏見所驅使的**事件**。當受害者或其他人認為一個人是出於對受害人的殘疾、種族、宗教信仰、性取向或是跨性別者身分的敵意或歧視而進行騷擾行為時，這就構成仇恨事件。
 
->  “Due to a disability I walk with a cane. I was on my way to the shopping mall when a group of young people started following me. They laughed and pretended to walk with a cane. Then they kicked my walking cane. I fell down and they ran away.”
+簡而言之，在仇恨事件是指任何受仇恨因素驅使、但在英國目前的法律框架下尚不是刑事犯罪的行為。
 
-The group of people has caused physical harm to the person, which constitutes a criminal offence. This is clearly motivated by the hostility towards the person’s disability. This is a typical example of a hate crime.
+不管受害人所遭受的是仇恨犯罪還是仇恨事件，他們都應該被鼓勵去舉報。警方強烈鼓勵民眾對仇恨犯罪以及仇恨事件進行舉報。
 
-### Case Study 2
 
-> "My next-door neighbour is very noisy. He plays loud music late at night. When I asked him to turn down the music after 10 p.m. because I must wake up early for my work, he yelled offensive things at me. The next day I found offensive graffiti on my car”
+## 案例分析
+在下文中，我們提供了幾個案例供您很您的組織成員參考。請仔細閱讀並思考以下案例屬於：
+1. 仇恨犯罪
+2. 仇恨事件
+3. 一般犯罪
+4. 以上皆不是
 
-Graffiti on cars could constitute criminal damage). The verbal abuse involved could also constitute a criminal offence depending on the circumstances. If the offensive things yelled and the content of the graffiti show hostility or prejudice towards the person’s characteristics, it would involve a hate element and therefore be a hate crime/incident. From the limited information provided, it is difficult to determine the exact nature of the incidents.
+### 案例1
 
-### Case Study 3
+>  “我由於身體殘疾必須拄拐走路。有一天，我正朝著商場走去，突然一群年輕人跟了過來。他們一邊笑一邊模仿拄拐走路的樣子。之後，他們踢了我的拐杖。我摔倒之後他們就跑走了。”
 
->  “Somebody posted a tweet on twitter that said transgender women are all disgusting and shouldn’t be allowed in public”
+評論：這群人對敘述者已經造成了身體傷害，該行為構成了刑事犯罪。顯而易見的，該犯罪行為是受這群人對敘述者的身體殘疾所驅使的。這是典型的仇恨犯罪。
 
-In this case the hate element would be the hostility and prejudice against transgender women.  Under the current law, using threatening words or behaviour, or displaying any written material which is threatening, is guilty of an offence if the person intends  to stir up hatred on the grounds of sexual orientation.  However, this provision currently does not cover transgender identity. Regardless of the exact legal nature of this act, it constitutes a hate incident.
+### 案例2
 
-### Case Study 4
+> ”我的鄰居非常吵鬧，他常常在深夜時大聲播放音樂。我請他在晚上10點之後把音量調小，因為我早上需要早起上班。他聽完之後對我喊了很多侮辱性的話。第二天，我在我的車上發現了侮辱性的塗鴉。“
 
-> “Somebody handed out flyers in the town centre saying that Chinese people are all to blame for Coronavirus and that Chinese people in England need to be punished with violence”
+評論：在私人財產上的塗鴉可能構成刑事破壞。言語上的侮辱根據具體情況也可能構成刑事犯罪。而如果塗鴉和口頭侮辱的言語中帶有明顯針對敘述者個人特徵的攻擊，那麼這就構成了仇恨因素。如果以上幾點都成立，那麼上述事件就可被視為仇恨事件或仇恨犯罪。但是，由於案例中所給的信息不足（比如，侮辱性言語和塗鴉的具體內容、敘述者或其他人是否認為這些行為受仇恨所驅使），我們很難對該事件進行定性。
 
-The message displayed can be seen as expressing a prejudice and hostility towards Chinese people, and therefore can be considered as a hate element. The act itself may amount to a criminal offence ‘displaying to another person any writing, sign or other visible representation which is threatening, abusive or insulting. 	However, it ultimately depends on the specific facts of the case and the eventual prosecution outcome.
+### 案例3
 
-### Summary
+>   “有人在推特上發佈了一條推文，稱所有跨性別女性都是噁心的，並表示她們不應該被允許進入公眾場合。”
 
-The purpose of the case studies shown above is to illustrate that there is a fine line between hate crimes , hate incidents and other general crime. It can be incredibly difficult to distinguish one from another. The police strongly encourage the report of BOTH hate crime and hate incidents. The victim should never be required to work out the nature of the event before to be “eligible” to make a report. When making a report, the victim should mention that hate is involved if they subjectively experienced so.
+評論： 顯而易見的，此處針對跨性別女性的惡意構成仇恨因素。在目前的法律框架下，通過威脅性語言或行為、或通過展示任何威脅性文字煽動對某一個性取向群體的惡意是違法的。[^2] 目前該法律不覆蓋跨性別身分。不過，不論該行為是否構成刑事犯罪，這都是一個仇恨事件，應當被舉報。
 
-## 哪些仇恨犯罪是值得舉報的？為何應當舉報仇恨法罪？
+[^2]: Part 3A Public Order Act 1986, <https://www.legislation.gov.uk/ukpga/1986/64/part/3A>
 
-當您舉報仇恨犯罪時，您就會替遏止仇恨犯罪出一份力。不管您認為您所遭受的事件有多麼得輕微， 對廣大社群來說，認識到仇恨犯罪的發生和舉報都是至關重要的。
+### 案例4
 
-​當您舉報仇恨犯罪時，您可以獲得所需要的幫助以面對案件對您帶來的傷害。您同時將幫助警方將加害者繩之以法，避免其他人再受這名加害者傷害。更重要的時，您將幫助警方更好地了解到您的社區的犯罪行為現況。這可以促使警方調整警力資源分配。就算您認為您的舉報可能不會有什麼實質性的結果，舉報本身就可造福廣大社區。
+>  “有些人在鎮中心向路人發送傳單，說新館病毒會發生都是中國人的錯，在英國的中國人應該要被暴力懲治。”
 
-​​執法機關掌握的犯罪信息越多，他們就能更好地教育以及保護社區中的每個人。  　　
+評論：該訊息可被視作是針對中國人的偏見與惡意，可構成仇恨因素。按照目前的法律，案例中的行為可能構成“向他人發送具有威脅性或侮辱性的文字、標語或其他視覺信息”這一刑事罪名。[^3]但是，罪名是否成立最終將取決於個案情況以及起訴結果。
+
+[^3]:Ibid, section 4
+
+### 結論
+
+以上案例的目的是為了闡明：仇恨犯罪、仇恨事件、和一般犯罪的區分在有些情況下可能非常困難。警察的立場是鼓勵民眾積極舉報仇恨犯罪**以及**仇恨犯罪。受害人無需通过确认所遭受的事件构成犯罪来获取报案的“资格”。
+
+如果受害人主觀上感受到了仇恨，那麼在報案時，受害人應對警方說明這一點。
+
+## 我們為何應當舉報仇恨犯罪/事件？
+
+所有的舉報都會替仇恨犯罪的遏制出一份力。不管您認為您所遭受的事件有多麼得輕微，認知到仇恨犯罪的發生和舉報對廣大社群來說都是很重要的。
+
+每份舉報都将幫助完善各個社區的信息，並揭露任何针对特定群体或个人的犯罪行为模式。舉報仇恨事件以及仇恨犯罪還可：
+
+- 幫助當地警方調整針對該社區的規劃，比如警力資源的分佈
+- 幫助當地的政府機構（比如警察或市政府）更好地理解仇恨問題，使他們能夠更好地教育並保護他們轄區中的居民
+- 幫助建立更準確的關於仇恨犯罪的數據資料，這些數據可以被用於向檢察官、立法者和公眾說明問題的嚴重性。
+
+就算您认为您的举报在短期內不會有任何實質性的結果，您的舉報仍將使廣大的社群受益。
+　
