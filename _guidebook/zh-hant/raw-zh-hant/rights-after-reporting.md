@@ -3,8 +3,7 @@
 - 受理案件的書面確認函
 - 案件編碼
 - 負責案件的警官的聯絡信息
-
-以上信息建議集中紀錄，以便日後查詢。
+(以上信息建議集中紀錄，以便日後查詢。)
 
 警方同時需要提供以下信息：
 - 下一步會發生什麼
@@ -31,11 +30,25 @@
 - 對協助案件偵辦的人進行恐嚇是一項違法行為
 - 如果違法者已被抓捕、被拘留、被釋放、被保釋或定罪，那麼刑事法庭可以針對此人下達限制令以限制此人不得靠近、威脅或恐嚇受害人。
 
-## 二次受害
-*[To be populated]*
+## 二度傷害
+二度傷害指的是在案件發生之後受害人再度遭受的傷害。此處的傷害並不是由案件直接導致，而是由機構的不當回應或其他人對案件或受害人的反應而導致的對受害人的再一次傷害。[^1]
+
+這種傷害的形式可能是精神上的也可能是身體上的。
+
+二度傷害可包括：漠視、不相信、或是由警方對受害人所提出的控訴。
+
+目前政府機構並沒有提出應對處理仇恨犯罪/案件中可能產生的二度傷害的具體方案。
+
+如果您認為您或是任何受害者可能遭受了任何有關仇恨犯罪的二度傷害，請通過郵箱聯絡 [CASVIC](https://www.hackneychinese.org.uk/post/casvic-launches-a-national-hate-crime-survey-for-east-and-southeast-asians)（反二度傷害組織）： casvic.org@gmail.com
+
+[^1]:Council of Europe (CoE) (2006), Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims https://rm.coe.int/16805afa5c
 
 ## 自我防卫
-*[To be populated]*
+在很多情況下，受害人可能會被迫用武力進行自我防衛，以應對所遭受的犯罪行為。[^2]
+
+如果受害人在面對仇恨犯罪行為的情況下進行了自我防衛，請在舉報的時候向警方說明情況，以避免警方在調查期間通過提出針對受害人的指控而給受害人造成二度傷害。
+
+[^2]:CPS, https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime
 
 ## 如何投訴警方
 如果受害人對案件偵辦的過程或結果有任何不滿，可以向該警隊進行投訴。
