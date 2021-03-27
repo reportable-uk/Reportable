@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: $$rights after reporting in Chinese
+title: 您的权利
 permalink: /guidebook/zh-hant/rights-after-reporting
 key: guidebook-rights
 sidebar:
