@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: 内容简介
+title: 内容简介
 permalink: /guidebook/zh-hant/introduction
 key: guidebook-intro
 sidebar:

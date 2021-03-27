@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: Rights After Reporting
+title: Rights After Reporting
 permalink: /guidebook/en/rights-after-reporting
 key: guidebook-rights
 sidebar:
