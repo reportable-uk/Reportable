@@ -8,11 +8,11 @@ In short, a hate crime is any action that is currently considered as a criminal 
 
 [^1]: Metropolitan Police:  https://www.met.police.uk/advice/advice-and-information/hco/hate-crime/what-is-hate-crime/
 
-## What constitutes a hate element?
+## What is a hate element?
 
 The hate element can take the form of:
-- Hostility: ill-will, ill-feeling, spite, prejudice, unfriendliness, antagonism, resentment, and dislike.
-- Prejudice: a baseless and often negative preconception or attitude towards members of a group.
+- **Hostility**: ill-will, ill-feeling, spite, prejudice, unfriendliness, antagonism, resentment, and dislike.
+- **Prejudice**: a baseless and often negative preconception or attitude towards members of a group.
 
 The victim does not need to personally perceive the incident to be hate-related. It would be enough if another person, a witness or even a police officer thought that the incident was hate related.
 
@@ -26,11 +26,12 @@ As mentioned above, as any criminal offence with a hate element is a hate crime,
 - Murder
 - Sexual assault
 - Theft
-- Fraud
 - Burglary
 - Hate mail
 
-## Hate crime or hate incident?
+## Hate crime or incident?
+
+> Hate incident = an action that is not a criminal offence + hate element
 
 A **hate incident** is any **incident** which the victim, or anyone else, thinks is based on someone’s prejudice towards them because of their race, religion, sexual orientation, disability or because they are transgender. In short, in a hate incident, the actions involved in the incident is not currently a criminal offence under the UK law.
 
