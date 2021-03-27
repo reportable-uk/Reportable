@@ -1,4 +1,4 @@
-## Pre-reporting considerations
+## Things to consider before reporting
 
 ### Quick guide to Reporting
 

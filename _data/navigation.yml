@@ -3,16 +3,16 @@ header:
       en : Home
       zh-hant : 主頁
       zh-hans : 主页
-      en-zh-hant : Home 主頁
-      en-zh-hans : Home 主页
+      en-zh-hant : Home <br> 主頁
+      en-zh-hans : Home <br> 主页
     url: /
 
   - titles:
       en: Guidebook
       zh-hant: 指南
       zh-hans: 指南
-      en-zh-hant: Guidebook 指南
-      en-zh-hans: Guidebook 指南
+      en-zh-hant: Guidebook <br> 指南
+      en-zh-hans: Guidebook <br> 指南
     url: /guidebook/en/introduction
     key: guidebook
 
@@ -20,32 +20,32 @@ header:
       en: Find Support
       zh-hant: 尋求幫助
       zh-hans: 寻求帮助
-      en-zh-hant: Find support 尋求幫助
-      en-zh-hans: Find support 寻求帮助
+      en-zh-hant: Find support <br> 尋求幫助
+      en-zh-hans: Find support <br> 寻求帮助
     url: /content/en/support
 
   - titles:
       en: Our Story
       zh-hant: 我們的故事
       zh-hans: 我们的故事
-      en-zh-hant: Our Story 我們的故事
-      en-zh-hans: Our Story 我们的故事
+      en-zh-hant: Our Story <br> 我們的故事
+      en-zh-hans: Our Story <br> 我们的故事
     url: /content/en/our-story
 
   - titles:
       en: Contact Us
       zh-hant: 聯繫我們
       zh-hans: 联系我们
-      en-zh-hant: Contact Us 聯繫我們
-      en-zh-hans: Contact Us 联系我们
+      en-zh-hant: Contact Us <br> 聯繫我們
+      en-zh-hans: Contact Us <br> 联系我们
     url: /content/en/contact
 
   - titles:
       en: News
       zh-hant: 消息
       zh-hans: 消息
-      en-zh-hant:  News 消息
-      en-zh-hans: News 消息
+      en-zh-hant:  News <br> 消息
+      en-zh-hans: News <br> 消息
     url: /content/en/news
 
 # GUIDEBOOK NAVIGATION
@@ -83,13 +83,13 @@ guidebook-zh-hant:
     children:
       - title:  簡介
         url:    /guidebook/zh-hant/introduction
-      - title:  What is hate crime?
+      - title:  什么是仇恨犯罪？
         url:    /guidebook/zh-hant/what-is-hate-crime
-      - title:  How to report hate crimes and hate incidents?
+      - title:  如何举报仇恨事件/仇恨犯罪
         url:    /guidebook/zh-hant/how-to-report
-      - title:  What can you expect to happen after reporting?
+      - title:  报案之后
         url:    /guidebook/zh-hant/after-reporting
-      - title:  What are your rights after reporting?
+      - title:  您的权利
         url:    /guidebook/zh-hant/rights-after-reporting
 
 guidebook-en-zh-hans:
@@ -109,13 +109,13 @@ guidebook-en-zh-hans:
 guidebook-en-zh-hant:
   - title:      Guidebook 指南
     children:
-      - title:  Introduction 簡介
+      - title:  Introduction <br> 簡介
         url:    /guidebook/en-zh-hant/introduction
-      - title:  What is hate crime?
+      - title:  What is hate crime? <br> 什么是仇恨犯罪？
         url:    /guidebook/en-zh-hant/what-is-hate-crime
-      - title:  How to report hate crimes and hate incidents?
+      - title:  How to report hate crimes and hate incidents? <br> 如何举报仇恨事件/仇恨犯罪
         url:    /guidebook/en-zh-hant/how-to-report
-      - title:  What can you expect to happen after reporting?
+      - title:  What can you expect to happen after reporting? <br> 报案之后
         url:    /guidebook/en-zh-hant/after-reporting
-      - title:  What are your rights after reporting?
+      - title:  What are your rights after reporting? <br> 您的权利
         url:    /guidebook/en-zh-hant/rights-after-reporting
