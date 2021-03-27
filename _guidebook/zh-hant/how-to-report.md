@@ -8,6 +8,7 @@ sidebar:
 aside:
   toc: true
 lang: zh-hant
+show_date: false
 ---
 
 {% include_relative raw-zh-hant/how-to-report.md %}
