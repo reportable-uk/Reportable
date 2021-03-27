@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: Guidebook
+title: Guidebook
 permalink: /guidebook/en/introduction
 key: guidebook-intro
 sidebar:

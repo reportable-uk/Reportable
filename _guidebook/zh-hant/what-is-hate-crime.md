@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: 什么是仇恨犯罪？
+title: 什么是仇恨犯罪？
 permalink: /guidebook/zh-hant/what-is-hate-crime
 key: guidebook-what
 sidebar:

@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: What is Hate Crime
+title: What is Hate Crime
 permalink: /guidebook/en/what-is-hate-crime
 key: guidebook-what
 sidebar:
