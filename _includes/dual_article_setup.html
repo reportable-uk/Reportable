@@ -15,14 +15,28 @@
   {% if leftNode == "" %}
     {% continue %}
   {% endif %}
-
   {% assign currLevel = leftNode | replace: '"', '' | slice: 0, 1 | times: 1 %}
+  {% assign rightNodeIndex = forloop.index | minus:1 %}
+    {% assign rightNode = right_nodes[rightNodeIndex] %}
   {% if currLevel < minHeader or currLevel > maxHeader %}
+      {% if currLevel == 0 %}
+      <div class="grid-container">
+        <div class="grid grid--p-3">
+          <div class="cell cell--6"><div>
+            <div class="js-article-left-content">
+              {{ leftNode }}
+          </div>
+            </div></div>
+          <div class="cell cell--6"><div>
+            <div class="js-article-right-content">
+              {{ rightNode }}
+            </div>
+          </div></div>
+        </div>
+      </div>
+      {% endif %}
       {% continue %}
   {% endif %}
-  {% assign rightNodeIndex = forloop.index | minus:1 %}
-  {% assign rightNode = right_nodes[rightNodeIndex] %}
-
   {% assign _leftWorkspace = leftNode | split: '</h' %}
   {% assign _leftIdWorkspaceNumberText = _leftWorkspace[0] | split: 'id="' %}
   {% assign _leftIdWorkspaceText = _leftIdWorkspaceNumberText[1] | split: '"' %}
