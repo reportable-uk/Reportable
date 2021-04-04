@@ -50,7 +50,7 @@
           $headingsLeft.each(function(index) {
             var $this = $(this);
             $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
-              .append($('<a></a>').text($this.text() + ' ' + $headingsRight.get(index).textContent).attr('href', '#' + $this.prop('id'))));
+              .append($('<a></a>').text($this.text() + '\n' + $headingsRight.get(index).textContent).attr('href', '#' + $this.prop('id'))));
           });
           $tocLi = $tocUl.children('li');
           $tocUl.on('click', 'a', function(e) {

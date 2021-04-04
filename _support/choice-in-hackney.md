@@ -3,9 +3,7 @@ layout: article
 title: Choice in Hackney
 mathjax: true
 cover: /support/assets/logos/choiceinhackney.png
-tags:
-  - Disability Community Centre
-  - 殘疾社區中心
+tags: [Disability Community Centre, 殘疾社區中心]
 show_date: false
 ---
 
