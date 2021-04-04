@@ -34,10 +34,10 @@ header:
       en-zh-hans: Find support <br> 寻求帮助
     urls:
       en: /content/en/support
-      zh-hant: /content/en/support
-      zh-hans: /content/en/support
-      en-zh-hant: /content/en/support
-      en-zh-hans: /content/en/support
+      zh-hant: /content/zh-hant/support
+      zh-hans: /content/zh-hans/support
+      en-zh-hant: /content/en-zh-hant/support
+      en-zh-hans: /content/en-zh-hans/support
 
   - titles:
       en: Our Story
@@ -47,10 +47,10 @@ header:
       en-zh-hans: Our Story <br> 我们的故事
     urls:
       en: /content/en/our-story
-      zh-hant: /content/en/our-story
-      zh-hans: /content/en/our-story
-      en-zh-hant: /content/en/our-story
-      en-zh-hans: /content/en/our-story
+      zh-hant: /content/zh-hant/our-story
+      zh-hans: /content/zh-hans/our-story
+      en-zh-hant: /content/en-zh-hant/our-story
+      en-zh-hans: /content/en-zh-hans/our-story
 
   - titles:
       en: Contact Us
@@ -60,23 +60,23 @@ header:
       en-zh-hans: Contact Us <br> 联系我们
     urls:
       en: /content/en/contact
-      zh-hant: /content/en/contact
-      zh-hans: /content/en/contact
-      en-zh-hant: /content/en/contact
-      en-zh-hans: /content/en/contact
+      zh-hant: /content/zh-hant/contact
+      zh-hans: /content/zh-hans/contact
+      en-zh-hant: /content/en-zh-hant/contact
+      en-zh-hans: /content/en-zh-hans/contact
 
   - titles:
       en: News
-      zh-hant: 消息
-      zh-hans: 消息
-      en-zh-hant:  News <br> 消息
-      en-zh-hans: News <br> 消息
+      zh-hant: 社區新聞
+      zh-hans: 社区新闻
+      en-zh-hant:  News <br> 社區新聞
+      en-zh-hans: News <br> 社区新闻
     urls:
       en: /content/en/news
-      zh-hant: /content/en/news
-      zh-hans: /content/en/news
-      en-zh-hant: /content/en/news
-      en-zh-hans: /content/en/news
+      zh-hant: /content/zh-hant/news
+      zh-hans: /content/zh-hans/news
+      en-zh-hant: /content/en-zh-hant/news
+      en-zh-hans: /content/en-zh-hans/news
 
 # GUIDEBOOK NAVIGATION
 
@@ -113,13 +113,13 @@ guidebook-zh-hant:
     children:
       - title:  簡介
         url:    /guidebook/zh-hant/introduction
-      - title:  什么是仇恨犯罪？
+      - title:  什麼是仇恨犯罪？
         url:    /guidebook/zh-hant/what-is-hate-crime
-      - title:  如何举报仇恨事件/仇恨犯罪
+      - title:  如何舉報仇恨事件/仇恨犯罪
         url:    /guidebook/zh-hant/how-to-report
-      - title:  报案之后
+      - title:  報案之後
         url:    /guidebook/zh-hant/after-reporting
-      - title:  您的权利
+      - title:  您的權利
         url:    /guidebook/zh-hant/rights-after-reporting
 
 guidebook-en-zh-hans:
@@ -141,11 +141,11 @@ guidebook-en-zh-hant:
     children:
       - title:  Introduction <br> 簡介
         url:    /guidebook/en-zh-hant/introduction
-      - title:  What is hate crime? <br> 什么是仇恨犯罪？
+      - title:  What is hate crime? <br> 什麼是仇恨犯罪？
         url:    /guidebook/en-zh-hant/what-is-hate-crime
-      - title:  How to report hate crimes and hate incidents? <br> 如何举报仇恨犯罪？
+      - title:  How to report hate crimes and hate incidents? <br> 如何舉報仇恨犯罪？
         url:    /guidebook/en-zh-hant/how-to-report
-      - title:  What can you expect to happen after reporting? <br> 举报之后会发生什么？
+      - title:  What can you expect to happen after reporting? <br> 舉報之後會發生什麼？
         url:    /guidebook/en-zh-hant/after-reporting
-      - title:  What are your rights after reporting? <br> 您的权利
+      - title:  What are your rights after reporting? <br> 您的權利
         url:    /guidebook/en-zh-hant/rights-after-reporting

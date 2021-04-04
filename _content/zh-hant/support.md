@@ -1,7 +1,7 @@
 ---
 layout: articles
 title: Find Support
-lang: en
+lang: zh-hant
 mode: immersive
 header:
   theme: dark
@@ -15,5 +15,6 @@ article_header:
 articles:
   data_source: site.support
   type: grid
+permalink: /content/en/support
 key: content-support
 ---
