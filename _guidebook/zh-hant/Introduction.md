@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: 内容简介
+titles: 簡介
 permalink: /guidebook/zh-hant/introduction
 key: guidebook-intro
 sidebar:
@@ -8,6 +8,7 @@ sidebar:
 aside:
   toc: true
 lang: zh-hant
+show_date: false
 ---
 
 {% include_relative raw-zh-hant/introduction.md %}
