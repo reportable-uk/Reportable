@@ -1,4 +1,3 @@
-
 The police and community response to a hate crime or incident will vary depending on
 1. whether the victim wishes to be contacted by the police, and
 2. whether the crime or incident was reported anonymously
