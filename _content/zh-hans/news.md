@@ -1,7 +1,7 @@
 ---
 layout: articles
 title: News
-lang: en
+lang: zh-hans
 mode: immersive
 header:
   theme: dark
