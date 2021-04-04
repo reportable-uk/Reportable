@@ -38,7 +38,7 @@
     var $articleTags = $tags.find('button');
     var $tagShowAll = $tags.find('.tag-button--all');
     var $result = $('.js-result');
-    var $sections = $result.find('section');
+    var $sections = $result.find('.cell');
     var sectionArticles = [];
     var $lastFocusButton = null;
     var sectionTopArticleIndex = [];
