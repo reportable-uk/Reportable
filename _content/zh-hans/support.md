@@ -1,7 +1,7 @@
 ---
 layout: support
 title: Find Support
-lang: en
+lang: zh-hans
 mode: immersive
 header:
   theme: dark

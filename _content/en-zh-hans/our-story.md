@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Story
-lang: en
+lang: en-zh-hans
 mode: immersive
 header:
   theme: dark
