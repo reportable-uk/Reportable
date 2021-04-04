@@ -66,7 +66,6 @@ layout: base
       {%- assign _page_main_class = _page_main_class | append: ' full-width' -%}
     {%- endif -%}
     <div class="{{ _page_main_class }} cell cell--auto">
-
       <div class="page__main-inner">
       {%- if _header != false -%}
         <div class="page__header d-print-none">
@@ -208,6 +207,9 @@ layout: base
                   {%- include article-header.html article=page -%}
                   {%- include article-info.html article=page -%}
                 {%- endif -%}
+				{%- if page.lang != "zh-hant" -%}
+				  {%- include reading-time.html -%}
+				{%- endif -%}
 
                     <div class="js-article-content">
                       {%- include snippets/assign.html
