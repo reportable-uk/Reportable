@@ -137,7 +137,7 @@ Choose this when the victim wants to pass details of a hate crime (or any other)
 StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See [here](https://www.stophateuk.org/how-to-report-online-hate/) for more info.
 
 #### Why/when to choose this solution:
-Choose this if the crime or incident happened occurred online. This can include comments, posts, messages that contain hateful content. 
+Choose this if the crime or incident happened occurred online. This can include comments, posts, messages that contain hateful content.
 
 ## How can the victim prepare for reporting
 
