@@ -3,9 +3,7 @@ layout: article
 title: Galop
 mathjax: true
 cover: /support/assets/logos/galop.png
-tags:
-  - Hate Crime Support
-  - 針對仇恨犯罪
+tags: [Hate Crime Support, 針對仇恨犯罪]
 show_date: false
 ---
 

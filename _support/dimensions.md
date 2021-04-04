@@ -3,10 +3,7 @@ layout: article
 title: Dimensions
 mathjax: true
 cover: /support/assets/logos/dimensions.png
-tags:
-  - Disability Community Centre
-  - Disability
-  - Specialist Services
+tags: [Disability Community Centre, Disability, Specialist Services]
 show_date: false
 ---
 

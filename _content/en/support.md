@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: support
 title: Find Support
 mode: immersive
 header:
@@ -11,9 +11,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/cover1.jpg
-articles:
-  data_source: site.support
-  type: grid
 permalink: /content/en/support
 key: content-support
 ---

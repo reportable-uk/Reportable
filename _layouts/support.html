@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+<div class="layout--archive js-all">
+  {%- include tags_support.html -%}
+  <div class="js-result layout--articles d-none">
+    {%- include support-orgs.html articles=site.support -%}
+  </div>
+</div>
+
+<script>
+  {%- include scripts/support_org.js -%}
+</script>
+
+{{ content }}
