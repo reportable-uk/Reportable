@@ -45,12 +45,12 @@ header:
       zh-hans: 社区新闻
       en-zh-hant: News <br> 社區新聞
       en-zh-hans: News <br> 社区新闻
-      urls:
-        en: /content/en/news
-        zh-hant: /content/zh-hant/news
-        zh-hans: /content/zh-hans/news
-        en-zh-hant: /content/en-zh-hant/news
-        en-zh-hans: /content/en-zh-hans/news
+    urls:
+      en: /content/en/news
+      zh-hant: /content/zh-hant/news
+      zh-hans: /content/zh-hans/news
+      en-zh-hant: /content/en-zh-hant/news
+      en-zh-hans: /content/en-zh-hans/news
 
   - titles:
       en: Our Story
