@@ -40,6 +40,19 @@ header:
       en-zh-hans: /content/en-zh-hans/support
 
   - titles:
+      en: News
+      zh-hant: 社區新聞
+      zh-hans: 社区新闻
+      en-zh-hant: News <br> 社區新聞
+      en-zh-hans: News <br> 社区新闻
+      urls:
+        en: /content/en/news
+        zh-hant: /content/zh-hant/news
+        zh-hans: /content/zh-hans/news
+        en-zh-hant: /content/en-zh-hant/news
+        en-zh-hans: /content/en-zh-hans/news
+
+  - titles:
       en: Our Story
       zh-hant: 我們的故事
       zh-hans: 我们的故事
@@ -64,19 +77,6 @@ header:
       zh-hans: /content/zh-hans/contact
       en-zh-hant: /content/en-zh-hant/contact
       en-zh-hans: /content/en-zh-hans/contact
-
-  - titles:
-      en: News
-      zh-hant: 社區新聞
-      zh-hans: 社区新闻
-      en-zh-hant:  News <br> 社區新聞
-      en-zh-hans: News <br> 社区新闻
-    urls:
-      en: /content/en/news
-      zh-hant: /content/zh-hant/news
-      zh-hans: /content/zh-hans/news
-      en-zh-hant: /content/en-zh-hant/news
-      en-zh-hans: /content/en-zh-hans/news
 
 # GUIDEBOOK NAVIGATION
 
