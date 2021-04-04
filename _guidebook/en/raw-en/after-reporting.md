@@ -39,11 +39,11 @@ So while all instances of hate crime and hate incidents should be reported to th
 
 After the police has gathered information from the victim, they will perform an initial triage and open a case through two steps:
 
-### 1) Determine whether the case is handled by the correct authority
+### a) Determine whether the case is handled by the correct authority
   - First, the authority that receives the report will make sure that they are the correct police force to investigate the crime you've reported. For example, if the hate crime or incident took place in a train station, this would be a matter for British Transport Police. In this case, the authority who received the initial report will send it to the correct police force to continue the investigation.
   - Note: Filing a report with the correct authority could potentially speed up the process. If the incident happened on public transport, report directly to British Transport Police if possible. Click here to find out how to report to British Transport police.
 
-### 2) Issue a crime reference number (CRN)
+### b) Issue a crime reference number (CRN)
   - Once the case has been referred to the appropriate police force, they will issue you a crime reference number. How quickly this is done depends on the complexity of the incident and number of other authorities involved.
   - What is a CRN? This is a unique number assigned to the victim’s case, the victim can quote this number to request updates from the police.
 
@@ -73,13 +73,16 @@ The police will base our decision on four key factors:
 If the police decides to move forward with an arrest, they will bring in the suspect for questioning before  deciding whether to charge the person.
 
 After being held for questioning the police may decide to:
-### 1) Release the person without charge
+### a) Release the person without charge
 
-### 2) Give them a caution
+- If the police could not find sufficient evidence to charge the suspect after questioning and any follow-up investigation, they may **release the suspect without charge**.
+- If you are unsatisfied with the police's conclusion and/or how they have handled the cxase, you can file a complaint against the police. Please refer to section titled "How to make a complaint" in this handbook for more information (click [here](/rights-after-reporting) to be redirected).
+
+### b) Give them a caution
   - A caution is not a criminal conviction, but it could be used as evidence of bad character (which would weaken their case) if the suspect goes to court for another crime.
   - Cautions are given to anyone aged 10 or over for minor crimes. The suspect will have to admit an offence and agree to be cautioned. The suspect  can be arrested and charged if he/she doesn’t agree.
 
-### 3) Place them on police bail ​​​
+### c) Place them on police bail ​​​
   - Bail is the temporary release of a person who is a suspect in an investigation into a crime (police bail), on the condition that they return to the police station at a later date.
   - Bail can sometimes be granted on condition that a sum of money is presented to guarantee the person coming to court.​
   - ​The suspect will NOT be granted bail if they:
@@ -89,7 +92,7 @@ After being held for questioning the police may decide to:
     - Officers may think that person will not turn up for your court hearing
     - Officers may think the person may commit a crime while on bail
 
-### 4) Police custody
+### d) Police custody
 
   - The police may decide not to grant bail meaning they have to remain in police custody for a short period of time whilst the police decide whether or not to bring charges.
   - How long can the police hold the suspect in custody?
@@ -97,7 +100,7 @@ After being held for questioning the police may decide to:
     - The police can apply to hold the person for up to 36 or 96 hours if they are suspected of a serious crime.
     - Individuals can be held without charge for up to 14 days, if they are arrested under the Terrorism Act.
 
-### 5) Charge the person
+### e) Charge the person
 
 - The case will be handed over to the Crown Prosecution Service (CPS), who will decide whether to prosecute and take the case to court.
 - Post-decision (prosecution/raise reviews/seek further support)

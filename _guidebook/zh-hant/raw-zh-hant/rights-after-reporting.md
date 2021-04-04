@@ -41,14 +41,10 @@
 
 如果您認為您或是任何受害者可能遭受了任何有關仇恨犯罪的二度傷害，請通過郵箱聯絡 [CASVIC](https://www.hackneychinese.org.uk/post/casvic-launches-a-national-hate-crime-survey-for-east-and-southeast-asians)（反二度傷害組織）： casvic.org@gmail.com
 
-[^1]:Council of Europe (CoE) (2006), Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims https://rm.coe.int/16805afa5c
-
 ## 自我防卫
 在很多情況下，受害人可能會被迫用武力進行自我防衛，以應對所遭受的犯罪行為。[^2]
 
 如果受害人在面對仇恨犯罪行為的情況下進行了自我防衛，請在舉報的時候向警方說明情況，以避免警方在調查期間通過提出針對受害人的指控而給受害人造成二度傷害。
-
-[^2]:CPS, https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime
 
 ## 如何投訴警方
 如果受害人對案件偵辦的過程或結果有任何不滿，可以向該警隊進行投訴。
@@ -59,33 +55,40 @@
 
 受害人可以通過以下方式對警方進行投訴：
 
-1）直接前往警察局投訴
+###1）直接前往警察局投訴
+- 您可前往處理您案件的警察局直接要求投訴。
 
-2）在想要投訴的警隊官網上填寫投訴表格
+###2）在想要投訴的警隊官網上填寫投訴表格
+- 請前往處理您案件的警察局官網。大部分警察局官網會提供線上投訴表格。您可以在https://www.police.uk/pu/contact-the-police/查詢各個地區警察局的官方網址。
 
-3）聯絡一名律師
+###3）聯絡一名律師
+- 您可委託律師處理投訴以及後續事宜。
 
-4） 聯絡受害人所居地區的議員
+###4） 聯絡受害人所居地區的議員
 
 - 您可以通過以下方式查詢您居住地區的議員是誰：在眾議院的官網上進行查詢： http://findyourmp.parliament.uk/
 撥打電話詢問：020 7219 4272
 
-5） 前往獨立警察紀律監察辦事處（IOPC）官網填寫線上投訴表格。
+###5） 前往獨立警察紀律監察辦事處（IOPC）官網填寫線上投訴表格。
 - IOPC不會閱讀收到的投訴表格，表格會被直接發往你想投訴的警隊。
 - 如果發送表格會給投訴人帶來危險 - 比如說，如果投訴人認為自己或其他人會因為提交投訴而受到傷害，IOPC將不會直接把表格發給相關警隊。請直接聯絡IOPC并說明任何顧慮：
    - IOPC電話：0300 020 0096
    - IOPC郵箱地址：enquiries@policeconduct.gov.uk
 
 
-## 誰會負責處理投訴？
+#### 誰會負責處理投訴？
 你所投訴的警隊將會受理投訴，除非您的投訴涉及一位警察局長（Chief Constable)。此類情況下，您的投訴將會由負責該警局的警察與犯罪事務專員（Police and Crime Commissioner）處理。
 
 每個警隊都由一名警察與犯罪事務專員。他們的職責是確保所有警隊成員都由妥善完成工作。
 
 有嚴重的事件發生時，IOPC會介入調查。比如說，有人在接觸警方之後身亡。
 
-## 投訴人的權利
+#### 投訴人的權利
 在完成投訴以後，投訴的受理人必須告訴您他們會如何處理您的投訴以及下一步會發生什麼。
 
-## 投訴之後會發生什麼
+#### 投訴之後會發生什麼
 您的投訴會被投訴內容相關的警隊紀錄。 IOPC無法紀錄您的投訴。如果該警隊沒有紀錄您的投訴，您可以向IOPC進行申訴。
+
+[^1]:Council of Europe (CoE) (2006), Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims https://rm.coe.int/16805afa5c
+
+[^2]:CPS, https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime
