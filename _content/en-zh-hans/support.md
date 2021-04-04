@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: support
 title: Find Support
 lang: en-zh-hans
 mode: immersive

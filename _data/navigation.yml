@@ -6,11 +6,11 @@ header:
       en-zh-hant : Home <br> 主頁
       en-zh-hans : Home <br> 主页
     urls:
-      en: /
-      zh-hant: /
-      zh-hans: /
-      en-zh-hant: /
-      en-zh-hans: /
+      en: /en/
+      zh-hant: /zh-hant/
+      zh-hans: /zh-hans/
+      en-zh-hant: /en-zh-hant/
+      en-zh-hans: /en-zh-hans/
 
   - titles:
       en: Guidebook

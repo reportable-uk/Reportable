@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: support
 title: Find Support
 lang: zh-hans
 mode: immersive
@@ -15,6 +15,5 @@ article_header:
 articles:
   data_source: site.support
   type: grid
-permalink: /content/zh-hans/support
 key: content-support
 ---
