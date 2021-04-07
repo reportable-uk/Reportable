@@ -29,6 +29,22 @@ As mentioned above, as any criminal offence with a hate element is a hate crime,
 - Burglary
 - Hate mail
 
+## Inciting hatred
+Hate crime can also be in the form of incitement of hatred.
+
+This occurs when the person does not directly conduct hateful actions or speech against the victim, but they act in a way that is threatening and intends to stir up hatred. That could be in words, pictures, videos, music, and includes information posted on websites.
+
+Specific examples of incitement of hatred include:
+- Social media posts that call for violence against a specific person or group
+- Web pages that show pictures, videos or descriptions of violence against anyone due to their perceived differences
+- chat forums where people ask other people to commit hate crimes against a specific person or group [^1]
+
+Under the current legislation, it is a criminal offence to incite hatred on the grounds of race, religion and sexual orientation.[^2] However, if you are aware of incitement of hatred  on any other grounds, you should still report it as a hate crime.
+
+[^2]: College of Policing, “Major investigation and public protection” <https://www.app.college.police.uk/app-content/major-investigation-and-public-protection/hate-crime/inciting-hatred/>
+”
+[^3]: Public Order Act 1986, Part 3A (as on 4 April 2021)
+
 ## Hate crime or incident?
 
 > Hate incident = an action that is not a criminal offence + hate element
@@ -61,17 +77,17 @@ Graffiti on cars could constitute criminal damage). The verbal abuse involved co
 
 >  “Somebody posted a tweet on twitter that said transgender women are all disgusting and shouldn’t be allowed in public”
 
-In this case the hate element would be the hostility and prejudice against transgender women.  Under the current law, using threatening words or behaviour, or displaying any written material which is threatening, is guilty of an offence if the person intends  to stir up hatred on the grounds of sexual orientation. [^2] However, this provision currently does not cover transgender identity. Regardless of the exact legal nature of this act, it constitutes a hate incident.
+In this case the hate element would be the hostility and prejudice against transgender women.  Under the current law, using threatening words or behaviour, or displaying any written material which is threatening, is guilty of an offence if the person intends  to stir up hatred on the grounds of sexual orientation. [^3] However, this provision currently does not cover transgender identity. Regardless of the exact legal nature of this act, it constitutes a hate incident.
 
-[^2]: Part 3A Public Order Act 1986, <https://www.legislation.gov.uk/ukpga/1986/64/part/3A>
+[^4]: Part 3A Public Order Act 1986, <https://www.legislation.gov.uk/ukpga/1986/64/part/3A>
 
 ### Case Study 4
 
 > “Somebody handed out flyers in the town centre saying that Chinese people are all to blame for Coronavirus and that Chinese people in England need to be punished with violence”
 
-The message displayed can be seen as expressing a prejudice and hostility towards Chinese people, and therefore can be considered as a hate element. The act itself may amount to a criminal offence ‘displaying to another person any writing, sign or other visible representation which is threatening, abusive or insulting. [^3] 	However, it ultimately depends on the specific facts of the case and the eventual prosecution outcome.
+The message displayed can be seen as expressing a prejudice and hostility towards Chinese people, and therefore can be considered as a hate element. The act itself may amount to a criminal offence ‘displaying to another person any writing, sign or other visible representation which is threatening, abusive or insulting. [^4] 	However, it ultimately depends on the specific facts of the case and the eventual prosecution outcome.
 
-[^3]:Ibid, section 4
+[^4]:Ibid, section 4
 
 ### Summary
 

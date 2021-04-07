@@ -1,4 +1,4 @@
-## Things to consider before reporting
+## Considerations before reporting
 
 ### Quick guide to Reporting
 
@@ -37,7 +37,7 @@ Every report builds up a picture of what is really going on in your local area, 
 
 Even if you think your report might not lead to any immediate substantive results, it will benefit the wider community.
 
-## What are the ways to report and why you should consider different ways
+## Ways to report and their pros and cons
 
 ### 1. Online reporting
 
@@ -137,7 +137,7 @@ Choose this when the victim wants to pass details of a hate crime (or any other)
 StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See [here](https://www.stophateuk.org/how-to-report-online-hate/) for more info.
 
 #### Why/when to choose this solution:
-Choose this if the crime or incident happened occured online.
+Choose this if the crime or incident happened occurred online. This can include comments, posts, messages that contain hateful content.
 
 ## How can the victim prepare for reporting
 

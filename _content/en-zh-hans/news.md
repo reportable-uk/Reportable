@@ -1,0 +1,19 @@
+---
+layout: articles
+title: News
+lang: en-zh-hans
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#7cc7bb'
+  background_image: false
+articles:
+  data_source: site.posts
+  show_cover: true
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
+---

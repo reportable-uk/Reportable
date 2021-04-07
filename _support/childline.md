@@ -3,9 +3,7 @@ layout: article
 title: Childline
 mathjax: true
 cover: /support/assets/logos/childline.png
-tags:
-  - Counselling Service
-  - Children and Young People
+tags: [Counselling Service, Children and Young People]
 show_date: false
 ---
 

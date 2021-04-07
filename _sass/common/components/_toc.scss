@@ -17,6 +17,7 @@ ul.toc {
   .toc-h4,
   .toc-h5,
   .toc-h6 {
+    white-space: pre-line;
     a {
       @include link-colors($text-color, $main-color-1);
     }

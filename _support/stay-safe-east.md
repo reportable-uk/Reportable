@@ -3,10 +3,7 @@ layout: article
 title: Stay Safe East
 mathjax: true
 cover: /support/assets/logos/staysafe.png
-tags:
-  - Crime Victim Support
-  - Disability
-  - Emotional and practical assistance
+tags: [Crime Victim Support, Disability, Emotional and practical assistance]
 show_date: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 您的权利
+title: 您的權利
 permalink: /guidebook/zh-hant/rights-after-reporting
 key: guidebook-rights
 sidebar:
@@ -8,7 +8,7 @@ sidebar:
 aside:
   toc: true
 lang: zh-hant
-show_date: false
+show_date: false  
 ---
 
 {% include_relative raw-zh-hant/rights-after-reporting.md %}

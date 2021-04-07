@@ -3,15 +3,7 @@ layout: article
 title: London Victim and Witness Service
 mathjax: true
 cover: /support/assets/logos/londonvictimandwitnessservice.png
-tags:
-  - Crime Victim Support
-  - General
-  - Emotional support
-  - Practical help
-  - Advice and information
-  - Personal safety services
-  - Help dealing with the police and criminal justice system
-  - Restorative justice
+tags: [Crime Victim Support, General, Emotional support, Practical help, Advice and information, Personal safety services, Help dealing with the police and criminal justice system, Restorative justice]
 show_date: false
 ---
 

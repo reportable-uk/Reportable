@@ -3,12 +3,7 @@ layout: article
 title: Catch - Communities Against Hate
 mathjax: true
 cover: /support/assets/logos/catch.png
-tags:
-  - Hate Crime Support
-  - 針對仇恨犯罪
-  - London
-  - General
-  - Emotional and practical assistance
+tags: [Hate Crime Support, 針對仇恨犯罪, London, General, Emotional and practical assistance]
 show_date: false
 ---
 
