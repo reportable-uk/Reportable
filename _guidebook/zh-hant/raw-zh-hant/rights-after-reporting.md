@@ -75,7 +75,6 @@
    - IOPC電話：0300 020 0096
    - IOPC郵箱地址：enquiries@policeconduct.gov.uk
 
-
 #### 誰會負責處理投訴？
 你所投訴的警隊將會受理投訴，除非您的投訴涉及一位警察局長（Chief Constable)。此類情況下，您的投訴將會由負責該警局的警察與犯罪事務專員（Police and Crime Commissioner）處理。
 
@@ -89,6 +88,6 @@
 #### 投訴之後會發生什麼
 您的投訴會被投訴內容相關的警隊紀錄。 IOPC無法紀錄您的投訴。如果該警隊沒有紀錄您的投訴，您可以向IOPC進行申訴。
 
-[^1]:Council of Europe (CoE) (2006), Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims https://rm.coe.int/16805afa5c
+[^1]:Council of Europe (CoE), [_Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims_](https://rm.coe.int/16805afa5c)(2006)
 
-[^2]:CPS, https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime
+[^2]:CPS, ['Self-Defence and the Prevention of Crime'](https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime) (last updated on 30 September 2019)

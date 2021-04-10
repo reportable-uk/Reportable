@@ -68,7 +68,7 @@ Choose this solution if you would prefer to speak to someone over the phone, if 
 ### 3. Visit local police station
 
 #### What is this solution:
-Reporting by visiting your local police station. Details on how to contact your local police force can be found at www.police.uk
+Reporting by visiting your local police station. Details on how to contact your local police force can be found at the  [Police UK](https://www.police.uk/) website.
 
 #### Why/when to choose this solution:
 - Report in-person if you have a local police contact, or if the crime is in progress or if someone is in immediate danger
@@ -79,7 +79,7 @@ Reporting by visiting your local police station. Details on how to contact your 
 #### What is this solution:
 - Reporting incidents on public transport directly to the British Transport Police
   - ​Report by text: send message to 61016 to report a crime or incident
-  - Report online: http://www.btp.police.uk/contact_us/report_a_crime.aspx
+  - Report online via [British Transport Police](http://www.btp.police.uk/contact_us/report_a_crime.aspx) website.
 
 #### Why/when to choose this solution:
 - Report through this channel if the hate crime or incident happened on public transport, such as buses, trams, trains, and the underground.
@@ -95,8 +95,6 @@ Examples include:
 - Stop Hate UK: provides confidential and independent reporting service in various areas in the UK, including a 24 - hour helpline.
 - Community Voluntary Services
 
-Click here to find a list of local third party reporting centres links to the support section for a full list of TPRCs
-
 To find out the how Third Party Reporting Centre process claims, click [here](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf).
 
 #### Why/when to choose this solution:
@@ -111,7 +109,7 @@ In addition to TrueVision and third party reporting centres, crimes may also be 
 
 Report via the following methods:
 - Phone: 0800 555111, it is free to call
-- [Report online](https://crimestoppers-uk.org/give-information/forms/give-information-anonymously)
+- Report online via [Crime Stoppers UK](https://crimestoppers-uk.org/give-information/forms/give-information-anonymously) website.
 
 Information that Crimestoppers cannot process:
 - Emergency
@@ -134,7 +132,7 @@ Choose this when the victim wants to pass details of a hate crime (or any other)
 ### 7. Social Media
 
 #### What is this solution:
-StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See [here](https://www.stophateuk.org/how-to-report-online-hate/) for more info.
+StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See [Stop Hate UK](https://www.stophateuk.org/how-to-report-online-hate/) website for more info.
 
 #### Why/when to choose this solution:
 Choose this if the crime or incident happened occurred online. This can include comments, posts, messages that contain hateful content.

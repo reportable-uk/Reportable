@@ -118,6 +118,6 @@
 
 有些年輕或是身有殘疾的證人有可能會感到害怕或脆弱。此類證人在提供證據時可能會需要幫助。 在這種情況下，證人可能可以有權要求特殊對待。這包括在出庭提供證據時要求法院在證人席和被告之間用擋板隔開，或是允許證人在專業人員的幫助下提供證據。
 
-- 關於證人的權利和庭審的流程，請點擊此處參考Victim Support（受害人協會）： https://www.victimsupport.org.uk/going-court/your-rights-witness  
+- 關於證人的權利和庭審的流程，請參考Victim Support網站關於[證人權利](https://www.victimsupport.org.uk/going-court/your-rights-witness)的介紹。
 
-- 關於如何幫助證人應對案件的影響，請參考：https://www.victimsupport.org.uk/help-and-support/coping-crime
+- 關於如何幫助證人應對案件的影響，請參考Victim Support網站關於[幫助與支持](https://www.victimsupport.org.uk/help-and-support/coping-crime)的介紹。

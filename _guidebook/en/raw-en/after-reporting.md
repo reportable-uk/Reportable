@@ -111,7 +111,7 @@ If the case goes to court, the victim will be contacted before the trial by the 
 
 ​​Some witnesses who feel intimidated or vulnerable, because they are young or disabled for example, and may need help giving evidence. In these cases, witnesses may be entitled to ‘special measures’. This could involve placing a screen between the witness box and the defendant or giving evidence with the help of a specialist.
 
-​For more details on your rights as a witness and the trial process, please refer to the Victim Support [witness rights](https://www.victimsupport.org.uk/going-court/your-rights-witness) page.
+​For more details on your rights as a witness and the trial process, please refer to the Victim Support ['Witness Rights'](https://www.victimsupport.org.uk/going-court/your-rights-witness) page.
 
 ​For more details on how to help the victim better cope with the incident, please refer to the Victim Support [help and support](https://www.victimsupport.org.uk/help-and-support/coping-crime
-) page.
+)page.
