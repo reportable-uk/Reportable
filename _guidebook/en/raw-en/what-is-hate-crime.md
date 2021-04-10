@@ -17,7 +17,7 @@ The victim does not need to personally perceive the incident to be hate-related.
 
 ## Forms of hate crime
 
-As mentioned above, as any criminal offence with a hate element is a hate crime, it can take place in anywhere and in anyform. Below are some examples of the types of crimes that could potentially involve a hate element:
+As mentioned above, as any criminal offence with a hate element is a hate crime, it can take place in anywhere and in any form. Below are some examples of the types of crimes that could potentially involve a hate element:
 
 - Assaults
 - Criminal damage
@@ -36,13 +36,9 @@ This occurs when the person does not directly conduct hateful actions or speech 
 Specific examples of incitement of hatred include:
 - Social media posts that call for violence against a specific person or group
 - Web pages that show pictures, videos or descriptions of violence against anyone due to their perceived differences
-- chat forums where people ask other people to commit hate crimes against a specific person or group [^1]
+- chat forums where people ask other people to commit hate crimes against a specific person or group[^2]
 
-Under the current legislation, it is a criminal offence to incite hatred on the grounds of race, religion and sexual orientation.[^2] However, if you are aware of incitement of hatred  on any other grounds, you should still report it as a hate crime.
-
-[^2]: College of Policing, “Major investigation and public protection” <https://www.app.college.police.uk/app-content/major-investigation-and-public-protection/hate-crime/inciting-hatred/>
-”
-[^3]: Public Order Act 1986, Part 3A (as on 4 April 2021)
+Under the current legislation, it is a criminal offence to incite hatred on the grounds of race, religion and sexual orientation.[^3] However, if you are aware of incitement of hatred  on any other grounds, you should still report it as a hate crime.
 
 ## Hate crime or incident?
 
@@ -76,24 +72,14 @@ Graffiti on cars could constitute criminal damage). The verbal abuse involved co
 
 >  “Somebody posted a tweet on twitter that said transgender women are all disgusting and shouldn’t be allowed in public”
 
-In this case the hate element would be the hostility and prejudice against transgender women.  Under the current law, using threatening words or behaviour, or displaying any written material which is threatening, is guilty of an offence if the person intends  to stir up hatred on the grounds of sexual orientation. [^3] However, this provision currently does not cover transgender identity. Regardless of the exact legal nature of this act, it constitutes a hate incident.
+In this case the hate element would be the hostility and prejudice against transgender women.  Under the current law, using threatening words or behaviour, or displaying any written material which is threatening, is guilty of an offence if the person intends  to stir up hatred on the grounds of sexual orientation. [^4] However, this provision currently does not cover transgender identity. Regardless of the exact legal nature of this act, it constitutes a hate incident.
 
-<<<<<<< Updated upstream
-[^4]: Part 3A Public Order Act 1986, <https://www.legislation.gov.uk/ukpga/1986/64/part/3A>
-
-=======
->>>>>>> Stashed changes
 ### Case Study 4
 
 > “Somebody handed out flyers in the town centre saying that Chinese people are all to blame for Coronavirus and that Chinese people in England need to be punished with violence”
 
-The message displayed can be seen as expressing a prejudice and hostility towards Chinese people, and therefore can be considered as a hate element. The act itself may amount to a criminal offence ‘displaying to another person any writing, sign or other visible representation which is threatening, abusive or insulting. [^4] 	However, it ultimately depends on the specific facts of the case and the eventual prosecution outcome.
+The message displayed can be seen as expressing a prejudice and hostility towards Chinese people, and therefore can be considered as a hate element. The act itself may amount to a criminal offence ‘displaying to another person any writing, sign or other visible representation which is threatening, abusive or insulting. [^5]	However, it ultimately depends on the specific facts of the case and the eventual prosecution outcome.
 
-<<<<<<< Updated upstream
-[^4]:Ibid, section 4
-
-=======
->>>>>>> Stashed changes
 ### Summary
 
 The purpose of the case studies shown above is to illustrate that there is a fine line between hate crimes , hate incidents and other general crime. It can be incredibly difficult to distinguish one from another. The police strongly encourage the report of BOTH hate crime and hate incidents. The victim should never be required to work out the nature of the event before to be “eligible” to make a report. When making a report, the victim should mention that hate is involved if they subjectively experienced so.
@@ -112,5 +98,7 @@ Reporting of the issue can:
 Even if you think your report might not lead to any immediate substantive results, it will benefit the wider community.
 
 [^1]: Metropolitan Police, ['What is hate crime?'](https://www.met.police.uk/advice/advice-and-information/hco/hate-crime/what-is-hate-crime/)
-[^2]: Public Order Act 1986, [Part 3A](https://www.legislation.gov.uk/ukpga/1986/64/part/3A)
-[^3]:Ibid, Section 4
+[^2]: College of Policing, ['Major investigation and public protection'](https://www.app.college.police.uk/app-content/major-investigation-and-public-protection/hate-crime/inciting-hatred/)
+[^3]: Public Order Act 1986, [Part 3A](https://www.legislation.gov.uk/ukpga/1986/64/part/3A)
+[^4]: Ibid.
+[^5]:Ibid, section 4

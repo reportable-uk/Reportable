@@ -95,8 +95,6 @@ Examples include:
 - Stop Hate UK: provides confidential and independent reporting service in various areas in the UK, including a 24 - hour helpline.
 - Community Voluntary Services
 
-Click here to find a list of local third party reporting centres links to the support section for a full list of TPRCs
-
 To find out the how Third Party Reporting Centre process claims, click [here](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf).
 
 #### Why/when to choose this solution:
@@ -137,11 +135,7 @@ Choose this when the victim wants to pass details of a hate crime (or any other)
 StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See [Stop Hate UK](https://www.stophateuk.org/how-to-report-online-hate/) website for more info.
 
 #### Why/when to choose this solution:
-<<<<<<< Updated upstream
 Choose this if the crime or incident happened occurred online. This can include comments, posts, messages that contain hateful content.
-=======
-Choose this if the crime or incident happened occurred online.
->>>>>>> Stashed changes
 
 ## How can the victim prepare for reporting
 
