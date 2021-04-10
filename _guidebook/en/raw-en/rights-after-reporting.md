@@ -49,8 +49,10 @@ If self-defense has taken place in response to a hate crime, please make sure to
 
 ## How to make a complaint
 In order to launch a complaint against the police, you can:
+
 ### 1. Go to the police station and speak to someone
 - You can go to the police station that handled your case and ask to launch a police complaint.
+
 ### 2. Fill an online complaint form on the website of the police force.
   - If the police force you are complaining about has an online complaint form, you can report it directly on their website.
   - you can locate the website of the police force that handled your case via [Police UK](https://www.police.uk/pu/contact-the-police/)'s website.
