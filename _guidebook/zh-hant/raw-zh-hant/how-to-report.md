@@ -2,7 +2,7 @@
 
 ### 快速舉報流程圖
 
-[![Reporting Flowchart](/assets/images/ReportingFlowchart_cht.png?raw=true)](/assets/images/ReportingFlowchart_cht.png)
+[![Reporting Flowchart](/assets/images/ReportingFlowchart_cht.png?raw=true)](/assets/images/ReportingFlowchart_cht.png){:target="_blank"}
 
 ### 關於舉報的常見問題
 
