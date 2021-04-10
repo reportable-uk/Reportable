@@ -4,7 +4,9 @@ title: Inclusion London
 mathjax: true
 cover: /support/assets/logos/inclusion.png
 tags:
-  - Disability
+    -
+     en: [Disability]
+     zh-hant: [new]
 show_date: false
 ---
 

@@ -3,7 +3,10 @@ layout: article
 title: Dimensions
 mathjax: true
 cover: /support/assets/logos/dimensions.png
-tags: [Disability Community Centre, Disability, Specialist Services]
+tags:
+    -
+     en: [Disability Community Centre, Disability, Specialist Services]
+     zh-hant: [針對仇恨犯罪]
 show_date: false
 ---
 

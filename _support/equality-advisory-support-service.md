@@ -3,7 +3,10 @@ layout: article
 title: Equality Advisory Support Service
 mathjax: true
 cover: /support/assets/logos/eass.png
-tags: [Human Rights, General, Legal Advice, Legal Support]
+tags:
+    -
+     en: [Human Rights, General, Legal Advice, Legal Support]
+     zh-hant: [new]
 show_date: false
 ---
 

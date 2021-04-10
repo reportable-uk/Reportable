@@ -4,7 +4,9 @@ title: Chinese Association of Tower Hamlets
 mathjax: true
 cover: /support/assets/logos/towerhamlets.png
 tags:
-  - Chinese Community Centre
+    -
+     en: [Chinese Community Centre]
+     zh-hant: [测试]
 show_date: false
 ---
 

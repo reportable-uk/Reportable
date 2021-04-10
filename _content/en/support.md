@@ -16,4 +16,5 @@ articles:
   data_source: site.support
   type: grid
 key: content-support
+show_date: false
 ---

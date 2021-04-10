@@ -3,7 +3,10 @@ layout: article
 title: Covid-19 Anti Racism Group (CARG)
 mathjax: true
 cover: /support/assets/logos/carg.png
-tags: [Hate Crime Support, 針對仇恨犯罪]
+tags:
+    -
+     en: [Hate Crime Supports]
+     zh-hant: [針對仇恨犯罪]
 show_date: false
 ---
 [CARG Website](https://www.carg.info/){:.button.button--primary.button--rounded}

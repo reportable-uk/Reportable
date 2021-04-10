@@ -3,7 +3,10 @@ layout: article
 title: Hackney Chinese Community Services
 mathjax: true
 cover: /support/assets/logos/hccs-black.png
-tags: [Chinese Community Centre, 華人社區中心]
+tags:
+    -
+     en: [Chinese Community Centre]
+     zh-hant: [華人社區中心]
 show_date: false
 ---
 
