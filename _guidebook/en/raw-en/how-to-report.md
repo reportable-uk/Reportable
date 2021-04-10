@@ -2,7 +2,7 @@
 
 ### Quick guide to Reporting
 
-![Reporting Flowchart](/assets/images/ReportingFlowchart.png)
+[![Reporting Flowchart](/assets/images/ReportingFlowchart.png?raw=true)](/assets/images/ReportingFlowchart.png)
 
 ### Common considerations with reporting
 
