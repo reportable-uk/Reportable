@@ -6,7 +6,6 @@ A **hate crime** is any **criminal offence** which is perceived by the victim or
 
 In short, a hate crime is any action that is currently considered as a criminal offence under UK law that has a hate element.
 
-[^1]: Metropolitan Police:  https://www.met.police.uk/advice/advice-and-information/hco/hate-crime/what-is-hate-crime/
 
 ## What is a hate element?
 
@@ -79,16 +78,22 @@ Graffiti on cars could constitute criminal damage). The verbal abuse involved co
 
 In this case the hate element would be the hostility and prejudice against transgender women.  Under the current law, using threatening words or behaviour, or displaying any written material which is threatening, is guilty of an offence if the person intends  to stir up hatred on the grounds of sexual orientation. [^3] However, this provision currently does not cover transgender identity. Regardless of the exact legal nature of this act, it constitutes a hate incident.
 
+<<<<<<< Updated upstream
 [^4]: Part 3A Public Order Act 1986, <https://www.legislation.gov.uk/ukpga/1986/64/part/3A>
 
+=======
+>>>>>>> Stashed changes
 ### Case Study 4
 
 > “Somebody handed out flyers in the town centre saying that Chinese people are all to blame for Coronavirus and that Chinese people in England need to be punished with violence”
 
 The message displayed can be seen as expressing a prejudice and hostility towards Chinese people, and therefore can be considered as a hate element. The act itself may amount to a criminal offence ‘displaying to another person any writing, sign or other visible representation which is threatening, abusive or insulting. [^4] 	However, it ultimately depends on the specific facts of the case and the eventual prosecution outcome.
 
+<<<<<<< Updated upstream
 [^4]:Ibid, section 4
 
+=======
+>>>>>>> Stashed changes
 ### Summary
 
 The purpose of the case studies shown above is to illustrate that there is a fine line between hate crimes , hate incidents and other general crime. It can be incredibly difficult to distinguish one from another. The police strongly encourage the report of BOTH hate crime and hate incidents. The victim should never be required to work out the nature of the event before to be “eligible” to make a report. When making a report, the victim should mention that hate is involved if they subjectively experienced so.
@@ -105,3 +110,7 @@ Reporting of the issue can:
 - Build a more accurate statistical picture of the issue and inform prosecutors, legislators and raise awareness with the general public.
 
 Even if you think your report might not lead to any immediate substantive results, it will benefit the wider community.
+
+[^1]: Metropolitan Police, ['What is hate crime?'](https://www.met.police.uk/advice/advice-and-information/hco/hate-crime/what-is-hate-crime/)
+[^2]: Public Order Act 1986, [Part 3A](https://www.legislation.gov.uk/ukpga/1986/64/part/3A)
+[^3]:Ibid, Section 4

@@ -42,7 +42,7 @@
 
 ### 1. 線上報案
 #### 報案方法
-- 受害人可通過True Vision的線上平台舉報任何仇恨犯罪或仇恨事件。平台鏈接： https://www.report-it.org.uk/your_police_force *（表格填寫時間：10-20分鐘）*
+- 受害人可通過[True Vision的線上平台](https://www.report-it.org.uk/your_police_force)舉報任何仇恨犯罪或仇恨事件。*（表格填寫時間：10-20分鐘）*
 
 
 #### 適用情況
@@ -71,7 +71,7 @@
 ### 3. 前往附近警局報案
 #### 報案方法
 - 受害人可直接前往警局進行報案。
-- 點擊此連結可查詢距離您最近的警局: www.police.uk
+- [前往英國警察官網](www.police.uk)查詢距離您最近的警局。
 
 #### 適用情況
 - 如果您在當地警察局有聯絡人、犯罪仍在繼續或有人正面臨緊急的危險。
@@ -81,7 +81,7 @@
 #### 報案方法
 - 請通過以下渠道向英國交通警察報案：
   - 發送短信至61016，請在短信內容裡面敘述您遭受或目擊的犯罪或事件
-  - 前往英國交通警察網站進行線上報案： http://www.btp.police.uk/contact_us/report_a_crime.aspx *（表格填寫時間：10-20分鐘）*
+  - 前往[英國交通警察網站]( http://www.btp.police.uk/contact_us/report_a_crime.aspx)進行線上報案 *（表格填寫時間：10-20分鐘）*
 
 #### 適用情況
 - 事件發生在公共交通上（巴士、電車、火車、地下鐵）。
@@ -95,8 +95,7 @@
   - 停止仇恨 (Stop Hate UK): 在英國各個區域皆有提供獨立保密的舉報服務，包括24小時熱線電話。
   - 社區志愿服務（Community Voluntary Services）
 - 點擊此處獲取更多第三方機構的信息。links to the support section for a full list of TPRCs
-- 點擊此處了解第三方舉報機構工作流程：https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf
-
+- 點擊[此處](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf)了解第三方舉報機構工作流程。
 
 #### 適用情況
 - 如果受害人不想與警方接觸，或有有特殊的需求需要專業組織幫助，他們可直接聯絡能夠提供相關幫助的第三方舉報平台（e.g.Tell Mama可處理針對穆斯林的仇恨犯罪，GALOP可提供針對LGBTQ的仇恨犯罪）.
@@ -107,7 +106,7 @@
 #### 報案方法
 - 除True Vision和上述平台之外，受害人也可通過Crimestoppers進行匿名舉報：
   - 免費電話：0800555111
-  - 線上舉報：https://crimestoppers-uk.org/give-information/forms/give-information-anonymously  *（表格填寫時間：10-20分鐘）*
+  - 通過[Crimestoppers線上平台](https://crimestoppers-uk.org/give-information/forms/give-information-anonymously)舉報 *（表格填寫時間：10-20分鐘）*
 - Crimestoppers無法處理以下信息：
   - 緊急情況
   - 如果您是受害人
@@ -128,7 +127,7 @@
 
 ### 6. 社交媒體
 #### 報案方法
-- StopHate UK製作了一份社交媒體上仇恨犯罪的詳細報告，同時提供了各大社交媒體上的舉報渠道，請見：https://www.stophateuk.org/how-to-report-online-hate/
+- Stop Hate UK製作了一份社交媒體上仇恨犯罪的詳細報告，同時提供了各大社交媒體上的舉報渠道。前往[Stop Hate UK網站](https://www.stophateuk.org/how-to-report-online-hate/)查看各大社交平台舉報方式.
 
 #### 適用情況
 - 受害人在社交媒體上遭受了仇恨犯罪或仇恨事件，比如帶有仇恨言論/影像音頻的帖子、評論、私信等。

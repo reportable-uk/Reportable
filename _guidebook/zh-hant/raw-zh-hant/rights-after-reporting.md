@@ -46,6 +46,10 @@
 
 如果受害人在面對仇恨犯罪行為的情況下進行了自我防衛，請在舉報的時候向警方說明情況，以避免警方在調查期間通過提出針對受害人的指控而給受害人造成二度傷害。
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 ## 如何投訴警方
 如果受害人對案件偵辦的過程或結果有任何不滿，可以向該警隊進行投訴。
 
@@ -89,6 +93,12 @@
 #### 投訴之後會發生什麼
 您的投訴會被投訴內容相關的警隊紀錄。 IOPC無法紀錄您的投訴。如果該警隊沒有紀錄您的投訴，您可以向IOPC進行申訴。
 
+<<<<<<< Updated upstream
 [^1]:Council of Europe (CoE) (2006), Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims https://rm.coe.int/16805afa5c
 
 [^2]:CPS, https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime
+=======
+[^1]:Council of Europe (CoE), [_Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims_](https://rm.coe.int/16805afa5c)(2006)
+
+[^2]:CPS, ['Self-Defence and the Prevention of Crime'](https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime) (last updated on 30 September 2019)
+>>>>>>> Stashed changes

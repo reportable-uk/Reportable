@@ -42,7 +42,11 @@ There is currently no explicit guidance in place to address potential issues of 
 
 If you suspect that you or any victim has been subject to secondary victimisation related to a hate crime or incident, please contact [CASVIC](https://www.hackneychinese.org.uk/post/casvic-launches-a-national-hate-crime-survey-for-east-and-southeast-asians) (the Campaign against Secondary Victimisation) at casvic.org@gmail.com.
 
+<<<<<<< Updated upstream
 
+=======
+[^1]:Council of Europe (CoE), [_Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims_](https://rm.coe.int/16805afa5c)(2006)
+>>>>>>> Stashed changes
 
 ## Self-defense
 A victim can engage in self-defense by use of force, but only as a defence of crimes committed against the victim, and only by use of a reasonable amount of force given the circumstances.[^2]
@@ -55,13 +59,18 @@ In order to launch a complaint against the police, you can:
 - You can go to the police station that handled your case and ask to launch a police complaint. 
 ###2. Fill an online complaint form on the website of the police force.
   - If the police force you are complaining about has an online complaint form, you can report it directly on their website.
+<<<<<<< Updated upstream
   - you can locate the website of the police force that handled your case at https://www.police.uk/pu/contact-the-police/
 ###3. Contact a solicitor
   - you can contact a solicitor to launch the complaint on your behalf and deal with any subsequent matters.
 
 ###4. Contact a Member of Parliament in your local area. ​
+=======
+3. Contact a solicitor
+4. Contact a Member of UK Parliament in your local area. ​
+>>>>>>> Stashed changes
   - You can find out who your MP is
-    - on the Parliament website: http://findyourmp.parliament.uk/
+    - on the [UK Parliament](http://findyourmp.parliament.uk/) website.
     - or call 020 7219 4272
 ###5. Fill in the IOPC’s online complaint form.
   - The IOPC will not read the complaint form. They will send it straight to the police force your complaint is about.
@@ -80,6 +89,12 @@ In order to launch a complaint against the police, you can:
 ####What happens after you make a complaint?
 - Your complaint will be recorded by the people the complaint is about. The IOPC cannot record your complaint but you can appeal to the IOPC if your complaint is not recorded.
 
+<<<<<<< Updated upstream
 [^1]:Council of Europe (CoE) (2006), Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims, https://rm.coe.int/16805afa5c
 
 [^2]:CPS, https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime
+=======
+[^1]:Council of Europe (CoE), [_Recommendation Rec(2006)8 of the Committee of Ministers to member states on assistance to crime victims_](https://rm.coe.int/16805afa5c)(2006)
+
+[^2]:CPS, ['Self-Defence and the Prevention of Crime'](https://www.cps.gov.uk/legal-guidance/self-defence-and-prevention-crime) (last updated on 30 September 2019)
+>>>>>>> Stashed changes
