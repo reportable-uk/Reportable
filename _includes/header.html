@@ -41,7 +41,13 @@
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}
-          <li class="navigation__item"><a href="/languages"> <img src="/assets/images/translate.png" height="25" width="25" /> Language </a></li>
+
+          <li class="navigation__item">
+            <a href="/languages">
+              {%- include svg/translate.svg -%}
+              Language
+            </a>
+          </li>
         </ul>
       </nav>
       {%- endif -%}
