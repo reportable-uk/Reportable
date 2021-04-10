@@ -2,7 +2,38 @@
 
 ### Quick guide to Reporting
 
-![Reporting Flowchart](/assets/images/ReportingFlowchart.png)
+```mermaid
+graph TB;
+    classDef default fill:#f9f,stroke:#f9f,stroke-width:100px;
+    A1[<font size=1>Is the victim under immediate threat or danger?]
+    A2[<font size=1>Does the hate crime or incident relate to Internet/media activity?]
+    A3[<font size=1>Is the victim comfortable with making the report online?]
+    A4[<font size=1>Is the victim uncomfortable with speaking to the police?]
+    B1[<font size=1>Call the police at 999 immediately]
+    B2[<font size=1>Report internet hate crimes at TrueVision:<br/>https://www.report-it.org.uk/reporting_internet_hate_crime]
+    B3[<font size=1>Report to a 3rd party reporting centre]
+    B4[<font size=1>Report to the relevant local police force]
+    E[<font size=1>Refer victim to any additional support resources as appropriate]
+
+    A1--<font size=1>Yes-->B1;
+    A2--<font size=1>Yes-->B2;
+    A3--<font size=1>Yes-->B2;
+    A4--<font size=1>Yes-->B3;
+    A4--<font size=1>No-->B4;
+
+    subgraph Key Considerations
+    A1--<font size=2>No-->A2;
+    A2--<font size=2>No-->A3;
+    A3--<font size=2>No-->A4;
+    end
+    subgraph Reporting Channels
+    B1-->E;
+    B2-->E;
+    B3-->E;
+    B4-->E;
+	end
+
+```
 
 ### Common considerations with reporting
 

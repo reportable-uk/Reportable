@@ -9,7 +9,7 @@ default:
     rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false
-  mermaid: false
+  mermaid: true
   chart: false
   toc:
     selectors: 'h1,h2,h3'

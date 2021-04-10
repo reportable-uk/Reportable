@@ -2,7 +2,38 @@
 
 ### 快速舉報流程圖
 
-![Reporting Flowchart](/assets/images/ReportingFlowchart_cht.png)
+```mermaid
+graph TB;
+    A1[Is the victim under immediate threat or danger?]
+    A2[Does the hate crime or incident relate to Internet/media activity?]
+    A3[Is the victim comfortable with making the report online?]
+    A4[Is the victim uncomfortable with speaking to the police?]
+    B1[B1]
+    B2[B2]
+    B3[B3]
+    B4[B4]
+    B5[B5]
+    E[Refer victim to any additional support resources as appropriate]
+
+    A1--Yes-->B1;
+    A2--Yes-->B2;
+    A3--Yes-->B3;
+    A4--Yes-->B4;
+    A4--No-->B5;
+
+    subgraph Key Considerations
+    A1--No-->A2;
+    A2--No-->A3;
+    A3--No-->A4;
+    end
+    subgraph Reporting Channels
+    B1-->E;
+    B2-->E;
+    B3-->E;
+    B4-->E;
+    B5-->E;
+  end
+```
 
 ### 關於舉報的常見問題
 
