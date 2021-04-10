@@ -9,21 +9,19 @@ They must also provide the following information:
 - How often they’ll provide an update on their investigation
 
 They must also:
-- Carry out a ‘needs assessment’ to find out what support the victim should get
-- Ask a victim support organisation to contact the victim within 2 days
+- Carry out a **needs assessment** to find out what support the victim should get
+- Ask a **victim support organisation** to contact the victim within **2 days**
 - Ask if the victim wants to write a statement about how the crime has affected him/her. This is called a ‘victim personal statement’. It can be used later when the court is deciding on a punishment.
 
-*[Specify how often the police will actually provide an update and when you have the right to follow-up]*
-
 ## During the police investigation
-The police must update the victim on the progress of their investigation, and tell the victim within 5 days when a suspect is:
+The police must update the victim on the progress of their investigation, and tell the victim within **5 day** when a suspect is:
 - arrested or charged
 - set free or released on bail
-- given a caution, reprimand, final warning, or penalty notice
+- given a police penalty
 
 When the police have finished their investigation, they can pass the information to the Crown Prosecution Service (CPS) who then decide if there’s enough evidence to take the case to court.
 
-If the police or the CPS decide to drop the charge, they must notify the victim within 5 days. You can ask for a review if you disagree with their decision.
+If the police or the CPS decide to drop the charge, they must notify the victim within **5 days**. You can ask for a review if you disagree with their decision.
 
 ## Protecting the victim
 If the victim is harassed or threatened in any way during an investigation or a trial, you should contact the police immediately or advise them to do so.
@@ -36,7 +34,7 @@ What can the police do?​
 
 Secondary victimisation refers to victimisation that occurs not as a direct result of the criminal act but through the response of institutions and individuals to the victim.[^1]
 
-This can involve indifference, rejection, or additional criminal charges levied by the police against the victim.
+This can involve indifference, rejection, or additional criminal charges levied by the police against the victim （e.g. the police brings charges against the victim for causing physical harm to the perpetrator when engaging in self-defence）.
 
 There is currently no explicit guidance in place to address potential issues of secondary victimisation when dealing with hate crimes or incidents.
 
@@ -49,14 +47,12 @@ If self-defense has taken place in response to a hate crime, please make sure to
 
 ## How to make a complaint
 In order to launch a complaint against the police, you can:
-
 ### 1. Go to the police station and speak to someone
 - You can go to the police station that handled your case and ask to launch a police complaint.
-
 ### 2. Fill an online complaint form on the website of the police force.
   - If the police force you are complaining about has an online complaint form, you can report it directly on their website.
   - you can locate the website of the police force that handled your case via [Police UK](https://www.police.uk/pu/contact-the-police/)'s website.
-  
+
 ### 3. Contact a solicitor
   - you can contact a solicitor to launch the complaint on your behalf and deal with any subsequent matters.
 

@@ -18,7 +18,7 @@ If the victim is not comfortable with speaking English, this may deter them from
 
 If the victim is not comfortable speaking with the police, or would prefer to remain anonymous, there are ways to make the report without needing to interact with the police or be identified (see above):
 - If your community centre is a third party reporting centre, then you can submit a report on their behalf.
-- Alternatively, reports can be submitted anonymously via CrimeReport or TrueVision.
+- Alternatively, reports can be submitted anonymously via Crimestoppers or TrueVision (see below).
 
 #### The victim is not comfortable being a witness or testifying in court
 
@@ -42,7 +42,7 @@ Even if you think your report might not lead to any immediate substantive result
 ### 1. Online reporting
 
 #### What is this solution:
-All hate crimes and incidents can be reported online using the [True Vision](https://www.report-it.org.uk/your_police_force) platform, which typically takes 10-20 minutes to complete.
+All hate crimes and incidents can be reported online using the [True Vision](https://www.report-it.org.uk/your_police_force) platform. _(estimated completion time: 10-20 min)_.
 
 #### Why/when to choose this solution:
 - Reporting online is the easiest and most effective way to capture information, and should be prioritised where convenient
@@ -51,24 +51,32 @@ All hate crimes and incidents can be reported online using the [True Vision](htt
 
 **Do not report online if:**
 - The offender is still present​
-- You or anyone else is seriously hurt or in danger
 - You think the offender may return
+- You or anyone else is seriously hurt or in danger
 
 ### 2. Call the Police
 
 #### What is this solution:
 Reporting a crime over the phone directly to the police
 
-- **Call 999 if the crime is in progress or if someone is in immediate danger.**
+- *Call 999 if：
+  - The offender is still present​
+  - You think the offender may return
+  - You or anyone else is seriously hurt or in danger
 - Call 101 if the crime isn’t an emergency.
 
 #### Why/when to choose this solution
-Choose this solution if you would prefer to speak to someone over the phone, if the crime is in progress or if someone is in immediate danger.
+- you would prefer to speak to someone over the phone
+- if the crime is in progress
+- The offender is still present​
+- You think the offender may return
+- You or anyone else is seriously hurt or in danger
 
 ### 3. Visit local police station
 
 #### What is this solution:
-Reporting by visiting your local police station. Details on how to contact your local police force can be found at the  [Police UK](https://www.police.uk/) website.
+- Reporting by visiting your local police station.
+- Details on how to contact your local police force can be found at the [Police UK](https://www.police.uk/) website.
 
 #### Why/when to choose this solution:
 - Report in-person if you have a local police contact, or if the crime is in progress or if someone is in immediate danger
@@ -78,8 +86,8 @@ Reporting by visiting your local police station. Details on how to contact your 
 
 #### What is this solution:
 - Reporting incidents on public transport directly to the British Transport Police
-  - ​Report by text: send message to 61016 to report a crime or incident
-  - Report online via [British Transport Police](http://www.btp.police.uk/contact_us/report_a_crime.aspx) website.
+  - ​Report by text: send message to **61016** to report a crime or incident
+  - Report online via [British Transport Police](http://www.btp.police.uk/contact_us/report_a_crime.aspx) website. _(estimated completion time for online form: 10-20 min)_.
 
 #### Why/when to choose this solution:
 - Report through this channel if the hate crime or incident happened on public transport, such as buses, trams, trains, and the underground.
@@ -109,7 +117,7 @@ In addition to TrueVision and third party reporting centres, crimes may also be 
 
 Report via the following methods:
 - Phone: 0800 555111, it is free to call
-- Report online via [Crime Stoppers UK](https://crimestoppers-uk.org/give-information/forms/give-information-anonymously) website.
+- Report online via [Crimestoppers UK](https://crimestoppers-uk.org/give-information/forms/give-information-anonymously) website.
 
 Information that Crimestoppers cannot process:
 - Emergency
@@ -148,9 +156,9 @@ Choose this if the crime or incident happened occurred online. This can include 
 - If there are any witnesses, ask them for their contact details and ask them to write down what they saw, sign and date it, as soon as possible.
 - Keep any evidence safe, such as clothing, photographs and letters/notes. If the perpetrator may have left fingerprints somewhere, do not touch the area, let the police know.
 
-### What questions might be asked during reporting to the police/third party reporting centres
+### What questions might be asked?
 
-*Please note that not knowing the answer of particular questions does not prevent a person from making a report.
+*Please note that not knowing the answer of particular questions does not prevent a person from making a report*.
 
 -  ​Basic information of the victim and/or the reporter (Name, address, phone number, email, DOB)
 - Information of the perpetrator
@@ -170,5 +178,3 @@ Choose this if the crime or incident happened occurred online. This can include 
   - Does the victim have any photo, audio or video evidence?
   - Does the victim know if any other persons may have evidence.
 - Whether the victim is comfortable testifying/giving witness in court
-
-### Other areas of support available to the victim (to be added)
