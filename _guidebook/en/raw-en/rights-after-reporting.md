@@ -46,7 +46,13 @@ A victim can engage in self-defense by use of force, but only as a defence of cr
 If self-defense has taken place in response to a hate crime, please make sure to explicitly flag this to the police when reporting the crime to avoid further secondary victimisation of the victim during the investigation process.
 
 ## How to make a complaint
-In order to launch a complaint against the police, you can:
+If you are unsatisfied with the process or the outcome of the police investigation into your case, you may raise a complaint with the police.
+
+You should advise the victim to:
+* Raise their complaint as soon as possible
+* Raise their complaint directly with the police force dealing with their case
+
+Victims may file a complaint with the police through the following methods:
 ### 1. Go to the police station and speak to someone
 - You can go to the police station that handled your case and ask to launch a police complaint.
 ### 2. Fill an online complaint form on the website of the police force.
