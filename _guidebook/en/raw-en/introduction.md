@@ -1,6 +1,6 @@
 ## Purpose of the manual
 
-This guidebook is intended as a one-stop guide to identifying and reporting hate crimes and hate crimes on behalf of your community and yourself.
+This guidebook is intended as a one-stop guide to identifying and reporting hate crimes and hate incidents on behalf of your community and yourself.
 
 This has become particularly pressing as there has been a large rise in hate crime over recent years, with a significant proportion that goes unreported:
 
