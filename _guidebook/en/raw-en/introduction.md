@@ -1,6 +1,6 @@
 ## Purpose of the manual
 
-This guidebook is intended as a one-stop guide to identifying and reporting hate crimes and hate crimes on behalf of your community and yourself.
+This guidebook is intended as a one-stop guide to identifying and reporting hate crimes and hate incidents on behalf of your community and yourself.
 
 This has become particularly pressing as there has been a large rise in hate crime over recent years, with a significant proportion that goes unreported:
 
@@ -17,6 +17,6 @@ Readers of this website should obtain legal advice from SRA regulated profession
 All liability with respect to actions taken or not taken based on the contents of this site are hereby expressly disclaimed.  
 
 
-[^1]: YouGov June 2020 BAME survey, https://docs.cdn.yougov.com/6pg6w1fadp/YouGov%20Racism%20BAME%20June%202020%202.pdf
-[^2]: The Independent, 'Coronavirus: Hate crimes against Chinese people almost triple in UK during pandemic, police data shows', https://www.independent.co.uk/news/uk/home-news/coronavirus-uk-hate-crimes-chinese-people-china-a9499991.html
-[^3]: L1ght, 'Rising Levels of Hate Speech & Online Toxicity During This Time of Crisis', https://l1ght.com/Toxicity_during_coronavirus_Report-L1ght.pdf
+[^1]: YouGov, [_June 2020 BAME survey_](https://docs.cdn.yougov.com/6pg6w1fadp/YouGov%20Racism%20BAME%20June%202020%202.pdf) (26 June 2020)
+[^2]: The Independent, ['Coronavirus: Hate crimes against Chinese people almost triple in UK during pandemic, police data shows'](https://www.independent.co.uk/news/uk/home-news/coronavirus-uk-hate-crimes-chinese-people-china-a9499991.html) (5 May 2020)
+[^3]: L1ght,['Rising Levels of Hate Speech & Online Toxicity During This Time of Crisis'](https://l1ght.com/Toxicity_during_coronavirus_Report-L1ght.pdf) (14 April 2020)
