@@ -1,11 +1,14 @@
 ---
-layout: article
+layout: article-support
 title: Camden Chinese Community Centre
 mathjax: true
 cover: /support/assets/logos/camden.png
 tags:
-  - Chinese Community Centre
+    -
+     en: [Chinese Community Centre, Children and Young People]
+     zh-hant: [测试]
 show_date: false
+lang: en
 ---
 
 [Camden Chinese Community Centre Website](https://www.camdenccc.co.uk){:.button.button--primary.button--rounded}

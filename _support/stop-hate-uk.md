@@ -4,7 +4,9 @@ title: Stop Hate UK
 mathjax: true
 cover: /support/assets/logos/stophate.png
 tags:
-  - Hate Crime Support
+    -
+     en: [Hate Crime Support, Disability, Emotional and practical assistance]
+     zh-hant: [華人社區中心]
 show_date: false
 ---
 

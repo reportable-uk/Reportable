@@ -3,7 +3,10 @@ layout: article
 title: Victim Support
 mathjax: true
 cover: /support/assets/logos/victimsupport.png
-tags: [Victim Support, General, Information and advice, Immediate emotional and practical help, Longer term emotional and practical help, Advocacy, Personal safety services, Peer support and group work, Help navigating the criminal justice system]
+tags:
+    -
+     en: [Victim Support, General, Information and advice, Immediate emotional and practical help, Longer term emotional and practical help, Advocacy, Personal safety services, Peer support and group work, Help navigating the criminal justice system]
+     zh-hant: [華人社區中心]
 show_date: false
 ---
 

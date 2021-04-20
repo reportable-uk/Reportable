@@ -3,7 +3,10 @@ layout: article
 title: Chinese Information and Advice Centre
 mathjax: true
 cover: /support/assets/logos/ciac.png
-tags: [Chinese Community Centre, General, Women & Children Support, Benefits Advice & Advocacy, Immigration Support, Legal Advice, Home Office Surgery, Voluntary Return Workshop, Healthcare, Asylum Seeker & Refugee Support, Third Party Reporting Centre, Prison & Probation Support]
+tags:
+    -
+     en: [Chinese Community Centre, General, Women & Children Support, Benefits Advice & Advocacy, Immigration Support, Legal Advice, Home Office Surgery, Voluntary Return Workshop, Healthcare, Asylum Seeker & Refugee Support, Third Party Reporting Centre, Prison & Probation Support]
+     zh-hant: [針對仇恨犯罪]
 show_date: false
 ---
 

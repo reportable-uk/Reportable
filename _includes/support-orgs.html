@@ -21,7 +21,8 @@
     {%- endif -%}
 
       {%- assign _tags = '' -%}
-      {%- for _tag in _article.tags -%}
+      {%- assign _tags_article = _article.tags | map: include.lang | join: ','  | split: ',' |  uniq  |  sort | reverse -%}
+      {%- for _tag in _tags_article -%}
         {%- assign _tag_encode = _tag | strip | url_encode -%}
         {%- if forloop.last -%}
           {%- assign _tags = _tags | append: _tag_encode -%}

@@ -4,7 +4,9 @@ title: London Chinese Community Centre
 mathjax: true
 cover: /support/assets/logos/chinesecommunitycentre.png
 tags:
-  - Chinese Community Centre
+    -
+     en: [Chinese Community Centre]
+     zh-hant: [華人社區中心]
 show_date: false
 ---
 

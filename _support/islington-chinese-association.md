@@ -4,7 +4,9 @@ title: Islington Chinese Association
 mathjax: true
 cover: /support/assets/logos/islington.png
 tags:
-  - Chinese Community Centre
+    -
+     en: [Chinese Community Centre]
+     zh-hant: [華人社區中心]
 show_date: false
 ---
 
