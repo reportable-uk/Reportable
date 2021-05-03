@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: $$what is hate crime in Chinese S
+title: 什么是仇恨犯罪
 permalink: /guidebook/zh-hans/what-is-hate-crime
 key: guidebook-what
 sidebar:

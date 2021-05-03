@@ -1,6 +1,6 @@
 ---
 layout: article
-title: $$After Reporting in Chinese S
+title: 报案之后
 permalink: /guidebook/zh-hans/after-reporting
 key: guidebook-after
 sidebar:
