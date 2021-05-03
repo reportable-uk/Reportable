@@ -5,7 +5,7 @@ mathjax: true
 cover: /support/assets/logos/catch.png
 tags:
     -
-     en: [Hate Crime Support, London, General, Emotional and practical assistance]
+     en: [Hate Crime Support, General, Emotional and practical assistance]
      zh-hant: [测试]
 show_date: false
 ---

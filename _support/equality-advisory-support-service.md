@@ -5,7 +5,7 @@ mathjax: true
 cover: /support/assets/logos/eass.png
 tags:
     -
-     en: [Human Rights, General, Legal Advice, Legal Support]
+     en: [Human Rights, General, Legal Advice]
      zh-hant: [new]
 show_date: false
 ---

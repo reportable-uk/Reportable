@@ -5,7 +5,7 @@ mathjax: true
 cover: /support/assets/logos/dimensions.png
 tags:
     -
-     en: [Disability Community Centre, Disability, Specialist Services]
+     en: [Disability, Mental Health]
      zh-hant: [針對仇恨犯罪]
 show_date: false
 ---

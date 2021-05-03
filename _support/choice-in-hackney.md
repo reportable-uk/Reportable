@@ -5,7 +5,7 @@ mathjax: true
 cover: /support/assets/logos/choiceinhackney.png
 tags:
     -
-     en: [Disability Community Centre]
+     en: [Disability]
      zh-hant: [殘疾社區中心]
 show_date: false
 ---

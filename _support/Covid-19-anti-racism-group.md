@@ -5,7 +5,7 @@ mathjax: true
 cover: /support/assets/logos/CARG.png
 tags:
     -
-     en: [Hate Crime Supports]
+     en: [Hate Crime Support]
      zh-hant: [針對仇恨犯罪]
 show_date: false
 ---
