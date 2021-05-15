@@ -41,7 +41,7 @@ This occurs when the person does not directly conduct hateful actions or speech 
 Specific examples of incitement of hatred include:
 - Social media posts that call for violence against a specific person or group
 - Web pages that show pictures, videos or descriptions of violence against anyone due to their perceived differences
-- chat forums where people ask other people to commit hate crimes against a specific person or group[^2]
+- Chat forums where people ask other people to commit hate crimes against a specific person or group[^2]
 
 Under the current legislation, it is a criminal offence to incite hatred on the grounds of race, religion and sexual orientation.[^3] However, if you are aware of incitement of hatred  on any other grounds, **you should still report it as a hate crime.**
 
@@ -96,7 +96,7 @@ The message displayed can be seen as expressing prejudice and hostility towards 
 
 The purpose of the case studies shown above is to illustrate that there is a fine line between hate crimes, hate incidents and other general crime. It can be incredibly difficult to distinguish one from another. **The police strongly encourages the report of BOTH hate crime and hate incidents**. The victim should never be required to work out the nature of the event before to be “eligible” to make a report.
 
-When making a report, the victim should mention that hate is involved if they subjectively experienced so.
+**When making a report, the victim should mention that hate is involved if they subjectively experienced so.**
 
 ## Why report hate crime and hate incidents?
 

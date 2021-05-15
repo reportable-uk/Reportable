@@ -3,7 +3,10 @@ layout: article
 title: Stay Safe East
 mathjax: true
 cover: /support/assets/logos/staysafe.png
-tags: [Crime Victim Support, Disability, Emotional and practical assistance]
+tags:
+    -
+     en: [Crime Victim Support and Counselling, Disability, Emotional and practical assistance]
+     zh-hant: [華人社區中心]
 show_date: false
 ---
 

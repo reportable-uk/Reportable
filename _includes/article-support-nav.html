@@ -1,7 +1,5 @@
   <div class="article__section-navigator clearfix">
-    {%- include snippets/prepend-baseurl.html path=/content/en/support/ -%}
+    {%- include snippets/prepend-baseurl.html path='/content/en/support/' -%}
     {%- assign _href = __return -%}
-    {%- include snippets/get-locale-string.html key='NEXT' -%}
-    {%- assign _locale_next = __return -%}
     <div class="previous"><span>{{ _locale_next }}</span><a href="{{ _href }}">RETURN</a></div>
   </div>

@@ -91,7 +91,7 @@ Reporting a crime over the phone directly to the police
 
 #### Why/when to choose this solution:
 - Report through this channel if the hate crime or incident happened on public transport, such as buses, trams, trains, and the underground.
-- Note that you can still report crimes that happened  on public transport to the police. After receiving your report, the police will then forward your case to the British Transport. Therefore, reporting to the British Police Transport directly may help to speed up the process.
+- Note that you can still report crimes that happened  on public transport to the police. After receiving your report, the police will then forward your case to the British Transport. Therefore, reporting to the British Transport Police directly may help to speed up the process.
 
 ### 5. Third Party Reporting Centres
 
@@ -103,10 +103,10 @@ Examples include:
 - Stop Hate UK: provides confidential and independent reporting service in various areas in the UK, including a 24 - hour helpline.
 - Community Voluntary Services
 
-To find out the how Third Party Reporting Centre process claims, click [here](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf).
+To find out how Third Party Reporting Centres process claims, click [here](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf).
 
 #### Why/when to choose this solution:
-Use third-party reporting centres if the victim is uncomfortable speaking directly to the police, or would like to seek support tailored to their community (e.g.Tell MAMA for victims of Islamophobia, GALOP for victims of LGBTQ+ hate).
+Use third-party reporting centres if the victim is uncomfortable speaking directly to the police, or would like to seek support tailored to their community (e.g. Tell MAMA for victims of Islamophobia, GALOP for victims of LGBTQ+ hate).
 
 These organisations may also allow you to report anonymously.
 
@@ -143,15 +143,15 @@ Choose this when the victim wants to pass details of a hate crime (or any other)
 StopHate UK has compiled a comprehensive overview of online hate crime, and links for reporting online hate on major social media platforms.  See [Stop Hate UK](https://www.stophateuk.org/how-to-report-online-hate/) website for more info.
 
 #### Why/when to choose this solution:
-Choose this if the crime or incident happened occurred online. This can include comments, posts, messages that contain hateful content.
+Choose this if the crime or incident that has happened occurred online. This can include comments, posts, messages that contain hateful content.
 
 ## How can the victim prepare for reporting
 
 ### Before reporting
 
--  ​​Record details and keep evidence (Photos, videos or audio) of the incident .
-- Write down all the details of the incident as soon as you can including descriptions of the perpetrator(s), clothes they wore, any distinguishing marks, any nearby vehicles or witnesses, and anything they said such as homophobic/transphobic abuse or threats they made.
-- Any physical evidence that the perpetrator has left behind
+-  ​​Record details and keep evidence (Photos, videos or audio) of the incident.
+- Write down all the step-by-step details of the incident as soon as you can including descriptions of the perpetrator(s), clothes they wore, any distinguishing marks, any nearby vehicles or witnesses, and anything they said such as homophobic/transphobic abuse or threats they made.
+- Any physical evidence that the perpetrator has left behind, **if safe to do so**
 - Take photographs of any damage to property or your belongings, such as graffiti, or damage to your car.
 - If there are any witnesses, ask them for their contact details and ask them to write down what they saw, sign and date it, as soon as possible.
 - Keep any evidence safe, such as clothing, photographs and letters/notes. If the perpetrator may have left fingerprints somewhere, do not touch the area, let the police know.
@@ -164,6 +164,7 @@ Choose this if the crime or incident happened occurred online. This can include 
 - Information of the perpetrator
 - Location of the crime
   - Did it take place on public transport?
+  - What type of area was it (e.g. shopping mall, outdoors)
   - Method of public transport? (e.g. bus, underground, tram, train, taxi)
   - Journey details?
 - What has happened?
@@ -176,5 +177,5 @@ Choose this if the crime or incident happened occurred online. This can include 
   - Has the suspect clearly left something at the scene; such as clothing, blood, any other bodily fluids, discarded items, obvious fingerprints or footprints? Or has the suspect caused any damage or made a mess searching?
 - Are there any CCTV cameras if relevant?
   - Does the victim have any photo, audio or video evidence?
-  - Does the victim know if any other persons may have evidence.
+  - Does the victim know if any other persons or witnesses may have any evidence?
 - Whether the victim is comfortable testifying/giving witness in court

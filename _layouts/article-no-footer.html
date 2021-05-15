@@ -7,6 +7,9 @@ type: article
   target = site.data.variables.default.page.sharing
   source0=layout.sharing source1=page.sharing -%}
 {%- assign _sharing = __return -%}
+{%- if page.lang != "zh-hant" -%}
+  {%- include reading-time.html -%}
+{%- endif -%}
 
 <div class="layout--article">
   {%- include article/top/custom.html -%}
@@ -16,10 +19,6 @@ type: article
   {%- if _sharing -%}
     <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
   {%- endif -%}
-
-  <div class="d-print-none">
-    {%- include article-footer.html -%}
-  </div>
 
 </div>
 

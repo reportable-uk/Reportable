@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Rights After Reporting
+title: 您的权利
 permalink: /guidebook/zh-hans/rights-after-reporting
 key: guidebook-rights
 sidebar:

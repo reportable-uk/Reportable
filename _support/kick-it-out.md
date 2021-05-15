@@ -4,7 +4,9 @@ title: Kick it Out
 mathjax: true
 cover: /support/assets/logos/kick.png
 tags:
-  - Ethnicity
+    -
+     en: [Ethnicity]
+     zh-hant: [new]
 show_date: false
 ---
 

@@ -4,7 +4,9 @@ title: MIND
 mathjax: true
 cover: /support/assets/logos/mind.png
 tags:
-  - Mental Health
+    -
+     en: [Mental Health, General, Emotional and practical assistance, Personal safety services, Help navigating the criminal justice system, Restorative justice]
+     zh-hant: [華人社區中心]
 show_date: false
 ---
 

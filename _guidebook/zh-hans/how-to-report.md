@@ -1,6 +1,6 @@
 ---
 layout: article
-title: $$How to Report in Chinese S
+title: 如何举报仇恨事件/仇恨犯罪
 permalink: /guidebook/zh-hans/how-to-report
 key: guidebook-how
 sidebar:

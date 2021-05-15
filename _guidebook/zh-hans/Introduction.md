@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: $$Guidebook in Chinese S
+title: 简介
 permalink: /guidebook/zh-hans/introduction
 key: guidebook-intro
 sidebar:
