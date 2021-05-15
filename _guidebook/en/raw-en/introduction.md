@@ -18,7 +18,7 @@ All liability with respect to actions taken or not taken based on the contents o
 
 ## Acknowledgments
 
-We owe many thanks to Protection Approaches, Hackney Chinese Community Centre, Newham Chinese Association and Yue Pan. Thank you for your support and input into the creation of this portal.
+We owe many thanks to Protection Approaches, Hackney Chinese Community Centre, Newham Chinese Association and Yue Pan. Thank you for your support and input into the creation of this portal and the supporting materials.
 
 [^1]: YouGov, [June 2020 BAME survey](https://docs.cdn.yougov.com/6pg6w1fadp/YouGov%20Racism%20BAME%20June%202020%202.pdf) (26 June 2020)
 [^2]: The Independent, ['Coronavirus: Hate crimes against Chinese people almost triple in UK during pandemic, police data shows'](https://www.independent.co.uk/news/uk/home-news/coronavirus-uk-hate-crimes-chinese-people-china-a9499991.html) (5 May 2020)

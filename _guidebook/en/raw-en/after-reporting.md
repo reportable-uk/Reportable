@@ -4,7 +4,7 @@ The police and community response to a hate crime or incident will vary dependin
 
 ## 1. Initial response
 
-If the victim chooses to report the hate crime or incident non-anonymously, an officer will contact the victim and ask the victim how they would like to talk to the police about this crime.
+If the victim chooses to report the hate crime or incident non-anonymously, an officer should contact the victim and ask the victim how they would like to talk to the police about this crime.
 
 This could involve:
 - visiting the victim at home or talking to the victim elsewhere;
@@ -23,7 +23,7 @@ This could involve:
 
 ### What can you do if the police won’t accept something as a hate incident?
 
-If the police is notified of a hate incident, they are required to record it as such. It doesn’t matter if the police officer perceives it otherwise.
+**If the police is notified of a hate incident, they are required to record it as such.** It doesn’t matter if the police officer perceives it otherwise.
 
 You don’t have to show evidence of prejudice or hostility to report a hate incident.
 
