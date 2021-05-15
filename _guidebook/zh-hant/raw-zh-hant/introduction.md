@@ -16,7 +16,10 @@
 
 在法律允許的範圍內，本網站及其製作者就任何基於網站內容所採取或未採取的行動所產生之後果不承擔任何責任。
 
+## 致谢
 
-[^1]: YouGov, [_June 2020 BAME survey_](https://docs.cdn.yougov.com/6pg6w1fadp/YouGov%20Racism%20BAME%20June%202020%202.pdf) (26 June 2020)
+非常感謝 Protection Approaches, Hackney Chinese Community Centre, Newham Chinese Association 以及 Yue Pan 對本站的支持與建議。
+
+[^1]: YouGov, [June 2020 BAME survey](https://docs.cdn.yougov.com/6pg6w1fadp/YouGov%20Racism%20BAME%20June%202020%202.pdf) (26 June 2020)
 [^2]: The Independent, ['Coronavirus: Hate crimes against Chinese people almost triple in UK during pandemic, police data shows'](https://www.independent.co.uk/news/uk/home-news/coronavirus-uk-hate-crimes-chinese-people-china-a9499991.html) (5 May 2020)
 [^3]: L1ght,['Rising Levels of Hate Speech & Online Toxicity During This Time of Crisis'](https://l1ght.com/Toxicity_during_coronavirus_Report-L1ght.pdf) (14 April 2020)
