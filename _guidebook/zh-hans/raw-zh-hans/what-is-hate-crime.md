@@ -112,10 +112,10 @@
 
 举报仇恨事件以及仇恨犯罪还可：
 
-- 帮助当地警方调整针对该社区的规划，比如警力资源的分布
-- 帮助当地的政府机构（比如警察或市政府）更好地理解仇恨问题，使他们能够更好地教育并保护他们辖区中的居民
+- 帮助当地警方调整针对该社区的规划，比如警力资源的分布。
+- 帮助当地的政府机构（比如警察或市政府）更好地理解仇恨问题，使他们能够更好地教育并保护他们辖区中的居民。譬如说，当地政府可以调动社区保护团队等并给公众举办训练。
 - 帮助建立更准确的仇恨犯罪数据资料，这些数据可以被用于向检察官、立法者和公众说明问题的严重性。
-
+For example, councils can mobilise community engagement and community safety teams and commission trainings for the public.
 就算您认为您的举报在短期内不会有任何实质性的结果，您的举报仍将使广大的社会群众受益。
 
 [^1]: Metropolitan Police, ['What is hate crime?'](https://www.met.police.uk/advice/advice-and-information/hco/hate-crime/what-is-hate-crime/)

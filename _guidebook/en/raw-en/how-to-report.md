@@ -12,7 +12,9 @@ It’s okay to feel worried or uncertain about what will happen after reporting.
 
 #### The victim is not comfortable with speaking in English
 
-If the victim is not comfortable with speaking English, this may deter them from reporting the incident. You can help victims to report the crime by calling the police for them or accompanying them to the police station.The police may also be able to provide an interpreter. You should advise the victim to request one to overcome any language barrier.
+If the victim is not comfortable with speaking English, this may deter them from reporting the incident. You can help victims to report the crime by calling the police for them or accompanying them to the police station.
+
+The police may also be able to provide an interpreter. You should advise the victim to request one to overcome any language barrier. Please make sure the interpreter has the right qualifications (a Diploma in Police Interpreting) and is qualified in the right language for the victim.
 
 #### The victim does not want to speak with the police
 
@@ -45,29 +47,31 @@ Even if you think your report might not lead to any immediate substantive result
 All hate crimes and incidents can be reported online using the [True Vision](https://www.report-it.org.uk/your_police_force) platform. _(estimated completion time: 10-20 min)_.
 
 #### Why/when to choose this solution:
-- Reporting online is the easiest and most effective way to capture information, and should be prioritised where convenient
+- Reporting online is the easiest and most effective way to capture information, and you should prioritise reporting online if not in an emergency
 - The case will be dealt with by police professionals experienced with handling hate crimes and incidents
 - Note that reports can be submitted anonymously
 
-**Do not report online if:**
+**Do not report online if you are in an emergency:**
 - The offender is still present​
 - You think the offender may return
 - You or anyone else is seriously hurt or in danger
+
+In an emergency scenario, please call **999** directly.
 
 ### 2. Call the Police
 
 #### What is this solution:
 Reporting a crime over the phone directly to the police
 
-- *Call 999 if：
+- Call 999 if：
   - The offender is still present​
   - You think the offender may return
   - You or anyone else is seriously hurt or in danger
 - Call 101 if the crime isn’t an emergency.
 
 #### Why/when to choose this solution
-- you would prefer to speak to someone over the phone
-- if the crime is in progress
+- You would prefer to speak to someone over the phone
+- If the crime is in progress
 - The offender is still present​
 - You think the offender may return
 - You or anyone else is seriously hurt or in danger
@@ -81,6 +85,7 @@ Reporting a crime over the phone directly to the police
 #### Why/when to choose this solution:
 - Report in-person if you have a local police contact, or if the crime is in progress or if someone is in immediate danger
 - Note that in cases with no immediate threat or emergency, reporting in person may result in long waiting times
+- Note that you may ask the police to provide an interpreter if the victim is uncomfortable speaking in English
 
 ### 4. Report it directly with British Transport Police
 

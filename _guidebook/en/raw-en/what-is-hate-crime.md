@@ -106,7 +106,7 @@ Every report builds up a picture of what is really going on in your local area, 
 
 Reporting of the issue can:
 - Help police adjust plans like where, when and how they deploy resources.
-- Help local agencies like the police and councils understand the issue, so that they can educate, inform and protect everyone in the area.
+- Help local agencies like the police and councils understand the issue, so that they can educate, inform and protect everyone in the area. For example, councils can mobilise community engagement and community safety teams and commission trainings for the public. 
 - Build a more accurate statistical picture of the issue and inform prosecutors, legislators and raise awareness with the general public.
 
 Even if you think your report might not lead to any immediate substantive results, it will benefit the wider community.
