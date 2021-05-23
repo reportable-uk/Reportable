@@ -8,7 +8,7 @@
 
 #### The victim does not want to speak with the police, or is afraid of retaliation from the perpetrator
 
-It’s okay to feel worried or uncertain about what will happen after reporting. You can tell victims that the police deal with these sorts of cases every day, will treat everybody fairly and equally, and will put your safety first. Alternatively, there are ways to make the report without needing to interact with the police or be identified, such as through third party reporting centres, or reporting anonymously (detailed below).  
+It’s okay to feel worried or uncertain about what will happen after reporting. You can tell victims that the police deal with these sorts of cases every day, will treat everybody fairly and equally, and will put your safety first. Alternatively, there are ways to make the report without needing to interact with the police or be identified, such as through third party reporting centres, or reporting anonymously (detailed below).
 
 #### The victim is not comfortable with speaking in English
 
@@ -102,6 +102,8 @@ Examples include:
 - Citizens Advice Bureau
 - Stop Hate UK: provides confidential and independent reporting service in various areas in the UK, including a 24 - hour helpline.
 - Community Voluntary Services
+- Chinese Community Centres(link [here](https://reportable.uk/content/en/support?tag=Chinese+Community+Centre))
+
 
 To find out how Third Party Reporting Centres process claims, click [here](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf).
 
@@ -109,6 +111,8 @@ To find out how Third Party Reporting Centres process claims, click [here](https
 Use third-party reporting centres if the victim is uncomfortable speaking directly to the police, or would like to seek support tailored to their community (e.g. Tell MAMA for victims of Islamophobia, GALOP for victims of LGBTQ+ hate).
 
 These organisations may also allow you to report anonymously.
+
+National campaigns are underway to set up third party reporting centre for ESEAN community and we will update our resources once that happens.
 
 ### 6. Report Anonymously through Crimestoppers
 
