@@ -8,6 +8,10 @@ This has become particularly pressing as there has been a large rise in hate cri
 - 300% increase in hate crimes towards people of East and Southeast Asian heritage in the UK since the coronavirus crisis began[^2]
 - 900% increase in online hate speech towards China since the coronavirus crisis began[^3]
 
+For additional information on hate crime and other types of crime, please also reach out to your local community centre, local councils, or [other support organisations](/content/en/support).
+
+Help is always available, you should always feel free to ask. Don't suffer in silence.
+
 ## Legal Disclaimer
 
 The information provided on this website does not, and is not intended to, constitute legal advice; instead, all information, content, and materials available on this site are for general informational purposes only.  Information on this website may not constitute the most up-to-date legal or other information.  No representations are made that the content is error-free.
