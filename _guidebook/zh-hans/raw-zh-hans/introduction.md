@@ -1,12 +1,18 @@
 ## 关于本手册
 
-本手册希望能为仇恨犯罪受害人以及社区中心工作者提供关于甄别和举报仇恨犯罪的一站式指南。
+本手册希望能为仇恨犯罪受害人以及社区中心工作者提供关于甄别和举报仇恨犯罪的一站式指南。这希望能让您更好地支持您的社区，以及当地警方在其中的责任，以帮助与警方的沟通。
+
+This will help you gain a deeper understanding of hate crime, so you can better support and advise members of your community. It will also help you understand the responsibilities of local police forces in this process, and encourage a better dialogue with them as a result.
 
 仇恨犯罪的解决迫在眉睫。近年里，针对亚洲人的仇恨犯罪急剧上升，但仍有大量事件并未被通报给警方：
 
 - 在拥有东亚和东南亚血统的人群里，3/4的人表示曾经被人使用种族蔑称。[^1]
 - 新冠疫情爆发后，拥有东亚和东南亚血统的人遭受到的仇恨犯罪数量上升了300%。[^2]
 - 新冠疫情爆发后，针对中国的线上仇恨言论数量增加了900%。[^3]
+
+如果希望了解更多有关仇恨犯罪或其他犯罪的知识，请联系当地社区中心，当地政府，或[其他第三方机构](/content/zh-hans/support)。
+
+请不要害怕寻求帮助，别在沉默中独自承受痛苦。
 
 ## 法律声明
 

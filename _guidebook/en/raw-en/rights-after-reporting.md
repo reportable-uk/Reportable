@@ -1,23 +1,24 @@
 ## When you report a crime
 The police must provide the person who has reported the crime and/or the victim with:
-- written confirmation of the crime reported
-- a crime reference number
-- contact details for the police officer dealing with the case
+- Written confirmation of the crime reported
+- A crime reference number
+- Contact details for the police officer dealing with the case
 
 They must also provide the following information:
 - What will happen next
 - How often they’ll provide an update on their investigation
 
 They must also:
+- Take a **witness statement**
 - Carry out a **needs assessment** to find out what support the victim should get
 - Ask a **victim support organisation** to contact the victim within **2 days**
 - Ask if the victim wants to write a statement about how the crime has affected him/her. This is called a ‘victim personal statement’. It can be used later when the court is deciding on a punishment.
 
 ## During the police investigation
-The police must update the victim on the progress of their investigation, and tell the victim within **5 day** when a suspect is:
-- arrested or charged
-- set free or released on bail
-- given a police penalty
+The police must update the victim on the progress of their investigation, and tell the victim within **5 days** when a suspect is:
+- Arrested or charged
+- Set free or released on bail
+- Given a police penalty
 
 When the police have finished their investigation, they can pass the information to the Crown Prosecution Service (CPS) who then decide if there’s enough evidence to take the case to court.
 
@@ -43,7 +44,7 @@ If you suspect that you or any victim has been subject to secondary victimisatio
 ## Self-defense
 A victim can engage in self-defense by use of force, but only as a defence of crimes committed against the victim, and only by use of a reasonable amount of force given the circumstances.[^2]
 
-If self-defense has taken place in response to a hate crime, please make sure to explicitly flag this to the police when reporting the crime to avoid further secondary victimisation of the victim during the investigation process.
+If self-defense has taken place in response to a hate crime, please make sure to explicitly flag this to the police when reporting the crime to avoid further secondary victimisation of the victim during the investigation process. Check that you have received a **crime reference number (CRN)** for hate crime from the police.
 
 ## How to make a complaint
 If you are unsatisfied with the process or the outcome of the police investigation into your case, you may raise a complaint with the police.
@@ -55,22 +56,26 @@ You should advise the victim to:
 Victims may file a complaint with the police through the following methods:
 ### 1. Go to the police station and speak to someone
 - You can go to the police station that handled your case and ask to launch a police complaint.
+
 ### 2. Fill an online complaint form on the website of the police force.
   - If the police force you are complaining about has an online complaint form, you can report it directly on their website.
-  - you can locate the website of the police force that handled your case via [Police UK](https://www.police.uk/pu/contact-the-police/)'s website.
+  - You can locate the website of the police force that handled your case via [Police UK](https://www.police.uk/pu/contact-the-police/uk-police-forces/)'s website.
 
 ### 3. Contact a solicitor
-  - you can contact a solicitor to launch the complaint on your behalf and deal with any subsequent matters.
+  - You can contact a solicitor to launch the complaint on your behalf and deal with any subsequent matters.
+  - Check your local Citizens Advice Bureau or local community law centre for more information and to help find solicitors that specialise in crime or hate crime.
 
 ### 4. Contact a Member of UK Parliament in your local area.
   - You can find out who your MP is
     - on the [UK Parliament](http://findyourmp.parliament.uk/) website.
     - or call 020 7219 4272
-### 5. Fill in the IOPC’s online complaint form.
-  - The IOPC will not read the complaint form. They will send it straight to the police force your complaint is about.
+
+### 5. Fill in the Independent Office for Police Conduct's (IOPC) online complaint form.
+  - The [IOPC](https://www.policeconduct.gov.uk/) will not read the complaint form. They will send it straight to the police force your complaint is about.
   - They will not send your complaint to the police if there are serious risks - for example, if you think you or someone else may be at risk if they do. If this is the case. Make the IOPC aware of the concern. You can:  
     - Call IOPC: 0300 020 0096
     - Email IOPC: enquiries@policeconduct.gov.uk
+  - The number of days for the typical response will vary by geography, availability as well as the nature of the case.
 
 #### Who will deal with the complaint?
 - The police force your complaint is about will deal with it, unless your complaint involves a chief constable. Then the Police and Crime Commissioner for that police force will deal with it.
