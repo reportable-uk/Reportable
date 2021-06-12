@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Hackney Chinese Community Services
 mathjax: true
 cover: /support/assets/logos/hccs-black.png
@@ -8,6 +8,7 @@ tags:
      en: [Chinese Community Centre]
      zh-hant: [華人社區中心]
 show_date: false
+lang: en
 ---
 
 [HCCS Website](https://www.hackneychinese.org.uk/){:.button.button--primary.button--rounded}

@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: North East Chinese Association
 mathjax: true
 cover: /support/assets/logos/north-east-chinese-association.jfif
 tags:
   - en: Chinese Community Centre
 show_date: false
+lang: en
 ---
 
 [North East Chinese Association Website](http://necauk.org.uk/){:.button.button--primary.button--rounded}

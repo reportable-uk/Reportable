@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Southeast and East Asian Centre
 mathjax: true
 cover: /support/assets/logos/southeast-and-east-asian-centre.PNG
 tags:
   - en: SEA Community
 show_date: false
+lang: en
 ---
 
 [Southeast and East Asian Centre Website](https://www.seeac.org.uk/){:.button.button--primary.button--rounded}

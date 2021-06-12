@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Childline
 mathjax: true
 cover: /support/assets/logos/childline.png
@@ -8,6 +8,7 @@ tags:
      en: [Crime Victim Support and Counselling, Children and Young People]
      zh-hant: [测试]
 show_date: false
+lang: en
 ---
 
 [Childline Website](http://www.childline.org.uk/){:.button.button--primary.button--rounded}

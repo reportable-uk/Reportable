@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Kalungan Centre
 mathjax: true
 cover: /support/assets/logos/kalungan.PNG
 tags:
   - en: SEA Community
 show_date: false
+lang: en
 ---
 
 [Kalungan Website](https://www.kanlungan.org.uk/){:.button.button--primary.button--rounded}

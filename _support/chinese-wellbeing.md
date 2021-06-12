@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Chinese Wellbeing
 mathjax: true
 cover: /support/assets/logos/chinese-welfare-trust.png
 tags:
   - en: Equality, Inclusion & Diversity
 show_date: false
+lang: en
 ---
 
 [Chinese Wellbeing](https://www.chinesewellbeing.co.uk){:.button.button--primary.button--rounded}

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Chinese Association of Tower Hamlets
 mathjax: true
 cover: /support/assets/logos/towerhamlets.png
@@ -8,6 +8,7 @@ tags:
      en: [Chinese Community Centre]
      zh-hant: [测试]
 show_date: false
+lang: en
 ---
 
 [Chinese Association of Tower Hamlets Website](https://thchinese.org.uk){:.button.button--primary.button--rounded}

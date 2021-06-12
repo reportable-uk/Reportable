@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Tell MAMA
 mathjax: true
 cover: /support/assets/logos/tellmama.png
@@ -8,6 +8,7 @@ tags:
      en: [Hate Crime Support, Disability, Emotional and practical assistance]
      zh-hant: [華人社區中心]
 show_date: false
+lang: en
 ---
 
 [TellMAMA Website](https://tellmamauk.org){:.button.button--primary.button--rounded}

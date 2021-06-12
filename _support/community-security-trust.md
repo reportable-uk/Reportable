@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Community Security Trust
 mathjax: true
 cover: /support/assets/logos/community-security-trust.jpg
 tags:
   - en: Equality, Inclusion & Diversity
 show_date: false
+lang: en
 ---
 
 [Community Security Trust Website](https://cst.org.uk/){:.button.button--primary.button--rounded}

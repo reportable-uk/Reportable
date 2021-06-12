@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Report Racism GRT
 mathjax: true
 cover: /support/assets/logos/report-racism-grt.jpg
 tags:
   - en: Crime Victim Support & Counselling
 show_date: false
+lang: en
 ---
 
 [Report Racism GRT Website](https://reportracismgrt.com/){:.button.button--primary.button--rounded}
