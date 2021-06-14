@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Manchester Chinese Centre
 mathjax: true
 cover: /support/assets/logos/manchester-chinese-centre.png
 tags:
   - en: Chinese Community Centre
 show_date: false
+lang: en
 ---
 
 [Manchester Chinese Centre Website](https://manchesterchinesecentre.org.uk/){:.button.button--primary.button--rounded}

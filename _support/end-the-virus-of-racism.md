@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: End the Virus of Racism
 mathjax: true
 cover: /support/assets/logos/end-the-virus-of-racism.png
 tags:
   - en: Anti-racism Charity
 show_date: false
+lang: en
 ---
 
 [End the Virus of Racism Website](https://www.endthevirusofracism.com/){:.button.button--primary.button--rounded}

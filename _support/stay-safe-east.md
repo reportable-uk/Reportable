@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Stay Safe East
 mathjax: true
 cover: /support/assets/logos/staysafe.png
@@ -8,6 +8,7 @@ tags:
      en: [Crime Victim Support and Counselling, Disability, Emotional and practical assistance]
      zh-hant: [華人社區中心]
 show_date: false
+lang: en
 ---
 
 [Stay Safe East Website](http://staysafe-east.org.uk/){:.button.button--primary.button--rounded}

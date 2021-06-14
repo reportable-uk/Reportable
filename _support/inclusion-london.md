@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Inclusion London
 mathjax: true
 cover: /support/assets/logos/inclusion.png
@@ -8,6 +8,7 @@ tags:
      en: [Disability]
      zh-hant: [new]
 show_date: false
+lang: en
 ---
 
 [Inclusion London Website](https://www.inclusionlondon.org.uk/){:.button.button--primary.button--rounded}

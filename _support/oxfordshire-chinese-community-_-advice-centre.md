@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Oxfordshire Chinese Community & Advice Centre
 mathjax: true
 cover: /support/assets/logos/oxfordshire-chinese-community-advice-centre.png
 tags:
   - en: Chinese Community Centre
 show_date: false
+lang: en
 ---
 
 [Oxfordshire Chinese Community & Advice Centre Website](https://www.camdenccc.co.uk){:.button.button--primary.button--rounded}

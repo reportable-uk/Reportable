@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Racism Unmasked Edinburgh
 mathjax: true
 cover: /support/assets/logos/racism-unmasked.PNG
 tags:
   - en: Anti-racism Charity
 show_date: false
+lang: en
 ---
 
 [Racism Unmasked Edinburgh Website](https://racismunmaskededin.wixsite.com/website){:.button.button--primary.button--rounded}

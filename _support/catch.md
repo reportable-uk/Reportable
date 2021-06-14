@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Catch - Communities Against Hate
 mathjax: true
 cover: /support/assets/logos/catch.png
@@ -8,6 +8,7 @@ tags:
      en: [Hate Crime Support, General, Emotional and practical assistance]
      zh-hant: [测试]
 show_date: false
+lang: en
 ---
 
 [CATCH Website](https://www.catch-hatecrime.org.uk/make-a-referral){:.button.button--primary.button--rounded}

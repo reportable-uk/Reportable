@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: SupportLine
 mathjax: true
 cover: /support/assets/logos/supportline.gif
 tags:
   - en: Crime Victim Support & Counselling
 show_date: false
+lang: en
 ---
 
 [SupportLine Website](www.supportline.org.uk){:.button.button--primary.button--rounded}

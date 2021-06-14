@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Nottinghamshire Chinese Welfare Association
 mathjax: true
 cover: /support/assets/logos/nottinghamshire chinese welfare association.jpg
 tags:
   - en: Chinese Community Centre
 show_date: false
+lang: en
 ---
 
 [Nottinghamshire Chinese Welfare Association Website](http://www.nottinghamchinese.org.uk/){:.button.button--primary.button--rounded}

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Victim Support
 mathjax: true
 cover: /support/assets/logos/victimsupport.png
@@ -7,6 +7,7 @@ tags:
     -
      en: [Crime Victim Support and Counselling, General, Emotional and practical assistance, Personal safety services, Peer support and group work, Help navigating the criminal justice system]
 show_date: false
+lang: en
 ---
 
 [Victim Support Website](https://www.victimsupport.org.uk){:.button.button--primary.button--rounded}

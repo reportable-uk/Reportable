@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Newham Chinese Association
 mathjax: true
 cover: /support/assets/logos/newham-chinese-association.png
 tags:
   - en: Chinese Community Centre
 show_date: false
+lang: en
 ---
 
 [Newham Chinese Association Website](https://newhamchineseassociation.wordpress.com/){:.button.button--primary.button--rounded}

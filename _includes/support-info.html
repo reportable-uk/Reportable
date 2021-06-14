@@ -42,7 +42,7 @@
         <ul class="left-col menu">
           {%- assign _tag_path = _paths_support | append: '?tag=' -%}
           {%- include snippets/prepend-baseurl.html path=_tag_path -%}
-          {%- assign _tags_article = include.article.tags | map: include.lang | join: ','  | split: ',' |  uniq  |  sort | reverse -%}
+          {%- assign _tags_article = include.article.tags[0] | map: include.lang | join: ','  | split: ',' |  uniq  |  sort | reverse -%}
           {%- for _tag in _tags_article -%}
             {%- assign _tag_path = __return -%}
             {%- assign _tag_encode = _tag | strip | url_encode } -%}
@@ -89,8 +89,4 @@
   {%- if include.article.date -%}
     <meta itemprop="datePublished" content="{{ include.article.date | date_to_xmlschema }}">
   {%- endif -%}
-<!--  {%- if include.article.tags[0] -%}-->
-<!--    {%- assign _keywords = include.article.tags | join: ',' %}-->
-<!--    <meta itemprop="keywords" content="{{ _keywords }}">-->
-<!--  {%- endif -%}-->
 {%- endif -%}
