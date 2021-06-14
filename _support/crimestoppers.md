@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: CrimeStoppers
 mathjax: true
 cover: /support/assets/logos/crimestoppers.png
 tags:
   - en: Crime Victim Support & Counselling
 show_date: false
+lang: en
 ---
 
 [CrimeStoppers Website](www.crimestoppers-uk.org){:.button.button--primary.button--rounded}

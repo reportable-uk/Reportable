@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Chinese Welfare Trust
 mathjax: true
 cover: /support/assets/logos/chinese-welfare-trust.png
 tags:
   - en: Equality, Inclusion & Diversity
 show_date: false
+lang: en
 ---
 
 [Chinese Welfare Trust Website](https://www.chinesewelfaretrust.org.uk/){:.button.button--primary.button--rounded}

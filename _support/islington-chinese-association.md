@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Islington Chinese Association
 mathjax: true
 cover: /support/assets/logos/islington.png
@@ -8,6 +8,7 @@ tags:
      en: [Chinese Community Centre]
      zh-hant: [華人社區中心]
 show_date: false
+lang: en
 ---
 
 [Islington Chinese Association Website](https://islingtonchinese.com/){:.button.button--primary.button--rounded}

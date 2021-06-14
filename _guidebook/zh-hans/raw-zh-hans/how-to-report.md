@@ -102,12 +102,14 @@
   - 市民咨询局（Citizens Advice Bureau）
   - Stop Hate UK: 该组织在英国各个区域皆有提供独立保密的举报服务，包括24小时热线电话。
   - 社区志愿服务（Community Voluntary Services）
+  - 华人社会服务中心 (点击[此处](https://reportable.uk/content/zh-hans/support?tag=Chinese+Community+Centre))
 - 点击[此处](/content/zh-hans/support)获取更多第三方机构的信息。links to the support section for a full list of TPRCs
 - 点击[此处](https://www.report-it.org.uk/files/third_party_reporting_flowchart_1.pdf)了解第三方举报机构工作流程。
 
 #### 适用情况
 - 如果受害人不想与警方接触，或有有特殊的需求需要专业组织帮助，他们可直接联络能够提供相关帮助的第三方举报平台（比如，Tell Mama可处理针对穆斯林的仇恨犯罪，GALOP可提供针对LGBTQ的仇恨犯罪）。
 - 有些第三方平台能够帮助受害人匿名举报。
+- 目前有组织正在积极筹建专为东亚以及东南亚社群服务的第三方举报中心，我们网站会及时更新有关信息。
 
 
 ### 6. 通过Crime Stoppers进行匿名举报

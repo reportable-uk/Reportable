@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Protection approaches
 mathjax: true
 cover: /support/assets/logos/protection-approaches.png
 tags:
   - en: Crime Victim Support & Counselling
 show_date: false
+lang: en
 ---
 
 [Protection approaches Website](https://protectionapproaches.org/){:.button.button--primary.button--rounded}

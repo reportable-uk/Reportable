@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: Haringey Chinese Centre
 mathjax: true
 cover: /support/assets/logos/haringey.png
@@ -8,6 +8,7 @@ tags:
      en: [Chinese Community Centre]
      zh-hant: [華人社區中心]
 show_date: false
+lang: en
 ---
 
 [Haringey Chinese Centre Website](http://www.haringeychinesecentre.org.uk/){:.button.button--primary.button--rounded}

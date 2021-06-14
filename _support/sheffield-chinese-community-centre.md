@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: article-support
 title: Sheffield Chinese Community Centre
 mathjax: true
 cover: /support/assets/logos/sheffield-chinese-community-centre.PNG
 tags:
   - en: Chinese Community Centre
 show_date: false
+lang: en
 ---
 
 [Sheffield Chinese Community Centre Website](http://www.sheffieldchinesecommunity.org.uk/){:.button.button--primary.button--rounded}

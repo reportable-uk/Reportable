@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-support
 title: London Chinese Community Centre
 mathjax: true
 cover: /support/assets/logos/chinesecommunitycentre.png
@@ -8,6 +8,7 @@ tags:
      en: [Chinese Community Centre]
      zh-hant: [華人社區中心]
 show_date: false
+lang: en
 ---
 
 [Chinese Community Centre Website](https://www.ccc.org.uk){:.button.button--primary.button--rounded}
