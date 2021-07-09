@@ -2,8 +2,6 @@
 
 本手册希望能为仇恨犯罪受害人以及社区中心工作者提供关于甄别和举报仇恨犯罪的一站式指南。这希望能让您更好地支持您的社区，以及当地警方在其中的责任，以帮助与警方的沟通。
 
-This will help you gain a deeper understanding of hate crime, so you can better support and advise members of your community. It will also help you understand the responsibilities of local police forces in this process, and encourage a better dialogue with them as a result.
-
 仇恨犯罪的解决迫在眉睫。近年里，针对亚洲人的仇恨犯罪急剧上升，但仍有大量事件并未被通报给警方：
 
 - 在拥有东亚和东南亚血统的人群里，3/4的人表示曾经被人使用种族蔑称。[^1]
